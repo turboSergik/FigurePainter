@@ -1,0 +1,2803 @@
+
+
+
+size=4
+cur point=742 271
+Cur dist=1.79769e+308 dist_now=650.865 point_now=137 31
+Cur dist=650.865 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=736 259
+Cur dist=1.79769e+308 dist_now=640.925 point_now=137 31
+Cur dist=640.925 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=715 216
+Cur dist=1.79769e+308 dist_now=606.885 point_now=137 31
+Cur dist=606.885 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=703 188
+Cur dist=1.79769e+308 dist_now=587.371 point_now=137 31
+Cur dist=587.371 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=693 162
+Cur dist=1.79769e+308 dist_now=571.224 point_now=137 31
+Cur dist=571.224 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=672 125
+Cur dist=1.79769e+308 dist_now=543.195 point_now=137 31
+Cur dist=543.195 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=628 62
+Cur dist=1.79769e+308 dist_now=491.978 point_now=137 31
+Cur dist=491.978 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=623 56
+Cur dist=1.79769e+308 dist_now=486.643 point_now=137 31
+Cur dist=486.643 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=623 55
+Cur dist=1.79769e+308 dist_now=486.592 point_now=137 31
+Cur dist=486.592 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=623 54
+Cur dist=1.79769e+308 dist_now=486.544 point_now=137 31
+Cur dist=486.544 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=623 54
+Cur dist=1.79769e+308 dist_now=486.544 point_now=137 31
+Cur dist=486.544 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=611 50
+Cur dist=1.79769e+308 dist_now=474.381 point_now=137 31
+Cur dist=474.381 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=540 48
+Cur dist=1.79769e+308 dist_now=403.358 point_now=137 31
+Cur dist=403.358 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=436 48
+Cur dist=1.79769e+308 dist_now=299.483 point_now=137 31
+Cur dist=299.483 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=343 48
+Cur dist=1.79769e+308 dist_now=206.7 point_now=137 31
+Cur dist=206.7 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=290 58
+Cur dist=1.79769e+308 dist_now=155.364 point_now=137 31
+Cur dist=155.364 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=258 67
+Cur dist=1.79769e+308 dist_now=126.242 point_now=137 31
+Cur dist=126.242 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=235 76
+Cur dist=1.79769e+308 dist_now=107.838 point_now=137 31
+Cur dist=107.838 dist_now=121.017 point_now=258 33
+Cur dist=107.838 dist_now=263.002 point_now=400 32
+Cur dist=107.838 dist_now=457.004 point_now=594 33
+Dist=107.838
+
+
+
+size=4
+cur point=213 85
+Cur dist=1.79769e+308 dist_now=93.2309 point_now=137 31
+Cur dist=93.2309 dist_now=121.017 point_now=258 33
+Cur dist=93.2309 dist_now=263.002 point_now=400 32
+Cur dist=93.2309 dist_now=457.004 point_now=594 33
+Dist=93.2309
+
+
+
+size=4
+cur point=197 95
+Cur dist=1.79769e+308 dist_now=87.7268 point_now=137 31
+Cur dist=87.7268 dist_now=121.017 point_now=258 33
+Cur dist=87.7268 dist_now=263.002 point_now=400 32
+Cur dist=87.7268 dist_now=457.004 point_now=594 33
+Dist=87.7268
+
+
+
+size=4
+cur point=181 105
+Cur dist=1.79769e+308 dist_now=86.093 point_now=137 31
+Cur dist=86.093 dist_now=121.017 point_now=258 33
+Cur dist=86.093 dist_now=263.002 point_now=400 32
+Cur dist=86.093 dist_now=457.004 point_now=594 33
+Dist=86.093
+
+
+
+size=4
+cur point=169 111
+Cur dist=1.79769e+308 dist_now=86.1626 point_now=137 31
+Cur dist=86.1626 dist_now=121.017 point_now=258 33
+Cur dist=86.1626 dist_now=263.002 point_now=400 32
+Cur dist=86.1626 dist_now=457.004 point_now=594 33
+Dist=86.1626
+
+
+
+size=4
+cur point=167 111
+Cur dist=1.79769e+308 dist_now=85.44 point_now=137 31
+Cur dist=85.44 dist_now=121.017 point_now=258 33
+Cur dist=85.44 dist_now=263.002 point_now=400 32
+Cur dist=85.44 dist_now=457.004 point_now=594 33
+Dist=85.44
+
+
+
+size=4
+cur point=168 111
+Cur dist=1.79769e+308 dist_now=85.7963 point_now=137 31
+Cur dist=85.7963 dist_now=121.017 point_now=258 33
+Cur dist=85.7963 dist_now=263.002 point_now=400 32
+Cur dist=85.7963 dist_now=457.004 point_now=594 33
+Dist=85.7963
+
+
+
+size=4
+cur point=211 100
+Cur dist=1.79769e+308 dist_now=101.178 point_now=137 31
+Cur dist=101.178 dist_now=121.017 point_now=258 33
+Cur dist=101.178 dist_now=263.002 point_now=400 32
+Cur dist=101.178 dist_now=457.004 point_now=594 33
+Dist=101.178
+
+
+
+size=4
+cur point=312 79
+Cur dist=1.79769e+308 dist_now=181.463 point_now=137 31
+Cur dist=181.463 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=414 68
+Cur dist=1.79769e+308 dist_now=279.46 point_now=137 31
+Cur dist=279.46 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=426 67
+Cur dist=1.79769e+308 dist_now=291.234 point_now=137 31
+Cur dist=291.234 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=449 67
+Cur dist=1.79769e+308 dist_now=314.07 point_now=137 31
+Cur dist=314.07 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=458 66
+Cur dist=1.79769e+308 dist_now=322.902 point_now=137 31
+Cur dist=322.902 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=468 64
+Cur dist=1.79769e+308 dist_now=332.641 point_now=137 31
+Cur dist=332.641 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=478 62
+Cur dist=1.79769e+308 dist_now=342.406 point_now=137 31
+Cur dist=342.406 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=496 62
+Cur dist=1.79769e+308 dist_now=360.336 point_now=137 31
+Cur dist=360.336 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=497 62
+Cur dist=1.79769e+308 dist_now=361.332 point_now=137 31
+Cur dist=361.332 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=498 62
+Cur dist=1.79769e+308 dist_now=362.329 point_now=137 31
+Cur dist=362.329 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=500 61
+Cur dist=1.79769e+308 dist_now=364.238 point_now=137 31
+Cur dist=364.238 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=501 61
+Cur dist=1.79769e+308 dist_now=365.234 point_now=137 31
+Cur dist=365.234 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=504 62
+Cur dist=1.79769e+308 dist_now=368.307 point_now=137 31
+Cur dist=368.307 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=513 63
+Cur dist=1.79769e+308 dist_now=377.359 point_now=137 31
+Cur dist=377.359 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=541 65
+Cur dist=1.79769e+308 dist_now=405.428 point_now=137 31
+Cur dist=405.428 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=611 65
+Cur dist=1.79769e+308 dist_now=475.218 point_now=137 31
+Cur dist=475.218 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=648 66
+Cur dist=1.79769e+308 dist_now=512.197 point_now=137 31
+Cur dist=512.197 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=647 66
+Cur dist=1.79769e+308 dist_now=511.2 point_now=137 31
+Cur dist=511.2 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=646 67
+Cur dist=1.79769e+308 dist_now=510.271 point_now=137 31
+Cur dist=510.271 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=560 161
+Cur dist=1.79769e+308 dist_now=442.526 point_now=137 31
+Cur dist=442.526 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=4
+cur point=503 373
+Cur dist=1.79769e+308 dist_now=500.919 point_now=137 31
+Cur dist=500.919 dist_now=121.017 point_now=258 33
+Cur dist=121.017 dist_now=142.004 point_now=400 32
+Cur dist=121.017 dist_now=336 point_now=594 33
+Dist=121.017
+
+
+
+size=5
+cur point=601 233
+Cur dist=1.79769e+308 dist_now=424.948 point_now=231 24
+Cur dist=424.948 dist_now=323.446 point_now=350 29
+Cur dist=323.446 dist_now=238.212 point_now=478 29
+Cur dist=238.212 dist_now=201.01 point_now=599 32
+Cur dist=201.01 dist_now=499.38 point_now=113 127
+Dist=201.01
+
+
+
+size=5
+cur point=601 233
+Cur dist=1.79769e+308 dist_now=424.948 point_now=231 24
+Cur dist=424.948 dist_now=323.446 point_now=350 29
+Cur dist=323.446 dist_now=238.212 point_now=478 29
+Cur dist=238.212 dist_now=201.01 point_now=599 32
+Cur dist=201.01 dist_now=499.38 point_now=113 127
+Dist=201.01
+
+
+
+size=5
+cur point=599 232
+Cur dist=1.79769e+308 dist_now=422.715 point_now=231 24
+Cur dist=422.715 dist_now=321.263 point_now=350 29
+Cur dist=321.263 dist_now=236.326 point_now=478 29
+Cur dist=236.326 dist_now=200 point_now=599 32
+Cur dist=200 dist_now=497.213 point_now=113 127
+Dist=200
+
+
+
+size=5
+cur point=514 215
+Cur dist=1.79769e+308 dist_now=341.423 point_now=231 24
+Cur dist=341.423 dist_now=247.976 point_now=350 29
+Cur dist=247.976 dist_now=189.452 point_now=478 29
+Cur dist=189.452 dist_now=201.777 point_now=599 32
+Cur dist=189.452 dist_now=410.542 point_now=113 127
+Dist=189.452
+
+
+
+size=5
+cur point=360 188
+Cur dist=1.79769e+308 dist_now=208.655 point_now=231 24
+Cur dist=208.655 dist_now=159.314 point_now=350 29
+Cur dist=159.314 dist_now=198.003 point_now=478 29
+Cur dist=159.314 dist_now=285.407 point_now=599 32
+Cur dist=159.314 dist_now=254.421 point_now=113 127
+Dist=159.314
+
+
+
+size=5
+cur point=299 165
+Cur dist=1.79769e+308 dist_now=156.541 point_now=231 24
+Cur dist=156.541 dist_now=145.248 point_now=350 29
+Cur dist=145.248 dist_now=224.804 point_now=478 29
+Cur dist=145.248 dist_now=328.16 point_now=599 32
+Cur dist=145.248 dist_now=189.842 point_now=113 127
+Dist=145.248
+
+
+
+size=5
+cur point=277 153
+Cur dist=1.79769e+308 dist_now=136.956 point_now=231 24
+Cur dist=136.956 dist_now=143.892 point_now=350 29
+Cur dist=136.956 dist_now=236.172 point_now=478 29
+Cur dist=136.956 dist_now=343.984 point_now=599 32
+Cur dist=136.956 dist_now=166.048 point_now=113 127
+Dist=136.956
+
+
+
+size=5
+cur point=253 143
+Cur dist=1.79769e+308 dist_now=121.017 point_now=231 24
+Cur dist=121.017 dist_now=149.683 point_now=350 29
+Cur dist=121.017 dist_now=252.232 point_now=478 29
+Cur dist=121.017 dist_now=363.369 point_now=599 32
+Cur dist=121.017 dist_now=140.911 point_now=113 127
+Dist=121.017
+
+
+
+size=5
+cur point=233 139
+Cur dist=1.79769e+308 dist_now=115.017 point_now=231 24
+Cur dist=115.017 dist_now=160.59 point_now=350 29
+Cur dist=115.017 dist_now=268.561 point_now=478 29
+Cur dist=115.017 dist_now=381.32 point_now=599 32
+Cur dist=115.017 dist_now=120.599 point_now=113 127
+Dist=115.017
+
+
+
+size=5
+cur point=196 139
+Cur dist=1.79769e+308 dist_now=120.208 point_now=231 24
+Cur dist=120.208 dist_now=189.251 point_now=350 29
+Cur dist=120.208 dist_now=302.695 point_now=478 29
+Cur dist=120.208 dist_now=416.963 point_now=599 32
+Cur dist=120.208 dist_now=83.863 point_now=113 127
+Dist=83.863
+
+
+
+size=5
+cur point=152 150
+Cur dist=1.79769e+308 dist_now=148.718 point_now=231 24
+Cur dist=148.718 dist_now=232.045 point_now=350 29
+Cur dist=148.718 dist_now=347.731 point_now=478 29
+Cur dist=148.718 dist_now=462.313 point_now=599 32
+Cur dist=148.718 dist_now=45.2769 point_now=113 127
+Dist=45.2769
+
+
+
+size=5
+cur point=116 176
+Cur dist=1.79769e+308 dist_now=190.602 point_now=231 24
+Cur dist=190.602 dist_now=276.342 point_now=350 29
+Cur dist=190.602 dist_now=390.708 point_now=478 29
+Cur dist=190.602 dist_now=504.009 point_now=599 32
+Cur dist=190.602 dist_now=49.0918 point_now=113 127
+Dist=49.0918
+
+
+
+size=5
+cur point=113 181
+Cur dist=1.79769e+308 dist_now=196.4 point_now=231 24
+Cur dist=196.4 dist_now=281.555 point_now=350 29
+Cur dist=196.4 dist_now=395.385 point_now=478 29
+Cur dist=196.4 dist_now=508.328 point_now=599 32
+Cur dist=196.4 dist_now=54 point_now=113 127
+Dist=54
+
+
+
+size=5
+cur point=113 182
+Cur dist=1.79769e+308 dist_now=197.2 point_now=231 24
+Cur dist=197.2 dist_now=282.096 point_now=350 29
+Cur dist=197.2 dist_now=395.77 point_now=478 29
+Cur dist=197.2 dist_now=508.622 point_now=599 32
+Cur dist=197.2 dist_now=55 point_now=113 127
+Dist=55
+
+
+
+size=5
+cur point=127 176
+Cur dist=1.79769e+308 dist_now=184.174 point_now=231 24
+Cur dist=184.174 dist_now=267.092 point_now=350 29
+Cur dist=184.174 dist_now=380.539 point_now=478 29
+Cur dist=184.174 dist_now=493.477 point_now=599 32
+Cur dist=184.174 dist_now=50.9608 point_now=113 127
+Dist=50.9608
+
+
+
+size=5
+cur point=147 157
+Cur dist=1.79769e+308 dist_now=157.305 point_now=231 24
+Cur dist=157.305 dist_now=239.985 point_now=350 29
+Cur dist=157.305 dist_now=354.887 point_now=478 29
+Cur dist=157.305 dist_now=468.966 point_now=599 32
+Cur dist=157.305 dist_now=45.3431 point_now=113 127
+Dist=45.3431
+
+
+
+size=5
+cur point=176 136
+Cur dist=1.79769e+308 dist_now=124.776 point_now=231 24
+Cur dist=124.776 dist_now=204.267 point_now=350 29
+Cur dist=124.776 dist_now=320.395 point_now=478 29
+Cur dist=124.776 dist_now=435.597 point_now=599 32
+Cur dist=124.776 dist_now=63.6396 point_now=113 127
+Dist=63.6396
+
+
+
+size=5
+cur point=238 104
+Cur dist=1.79769e+308 dist_now=80.3057 point_now=231 24
+Cur dist=80.3057 dist_now=134.792 point_now=350 29
+Cur dist=80.3057 dist_now=251.446 point_now=478 29
+Cur dist=80.3057 dist_now=368.11 point_now=599 32
+Cur dist=80.3057 dist_now=127.098 point_now=113 127
+Dist=80.3057
+
+
+
+size=5
+cur point=292 80
+Cur dist=1.79769e+308 dist_now=82.807 point_now=231 24
+Cur dist=82.807 dist_now=77.2334 point_now=350 29
+Cur dist=77.2334 dist_now=192.865 point_now=478 29
+Cur dist=77.2334 dist_now=310.73 point_now=599 32
+Cur dist=77.2334 dist_now=185.068 point_now=113 127
+Dist=77.2334
+
+
+
+size=5
+cur point=333 67
+Cur dist=1.79769e+308 dist_now=110.693 point_now=231 24
+Cur dist=110.693 dist_now=41.6293 point_now=350 29
+Cur dist=41.6293 dist_now=149.897 point_now=478 29
+Cur dist=41.6293 dist_now=268.293 point_now=599 32
+Cur dist=41.6293 dist_now=228.035 point_now=113 127
+Dist=41.6293
+
+
+
+size=5
+cur point=370 63
+Cur dist=1.79769e+308 dist_now=144.368 point_now=231 24
+Cur dist=144.368 dist_now=39.4462 point_now=350 29
+Cur dist=39.4462 dist_now=113.225 point_now=478 29
+Cur dist=39.4462 dist_now=231.089 point_now=599 32
+Cur dist=39.4462 dist_now=264.849 point_now=113 127
+Dist=39.4462
+
+
+
+size=5
+cur point=406 61
+Cur dist=1.79769e+308 dist_now=178.869 point_now=231 24
+Cur dist=178.869 dist_now=64.4981 point_now=350 29
+Cur dist=64.4981 dist_now=78.7909 point_now=478 29
+Cur dist=64.4981 dist_now=195.167 point_now=599 32
+Cur dist=64.4981 dist_now=300.341 point_now=113 127
+Dist=64.4981
+
+
+
+size=5
+cur point=430 61
+Cur dist=1.79769e+308 dist_now=202.41 point_now=231 24
+Cur dist=202.41 dist_now=86.1626 point_now=350 29
+Cur dist=86.1626 dist_now=57.6888 point_now=478 29
+Cur dist=57.6888 dist_now=171.47 point_now=599 32
+Cur dist=57.6888 dist_now=323.798 point_now=113 127
+Dist=57.6888
+
+
+
+size=5
+cur point=493 61
+Cur dist=1.79769e+308 dist_now=264.6 point_now=231 24
+Cur dist=264.6 dist_now=146.537 point_now=350 29
+Cur dist=146.537 dist_now=35.3412 point_now=478 29
+Cur dist=35.3412 dist_now=109.895 point_now=599 32
+Cur dist=35.3412 dist_now=385.689 point_now=113 127
+Dist=35.3412
+
+
+
+size=5
+cur point=564 58
+Cur dist=1.79769e+308 dist_now=334.731 point_now=231 24
+Cur dist=334.731 dist_now=215.956 point_now=350 29
+Cur dist=215.956 dist_now=90.7579 point_now=478 29
+Cur dist=90.7579 dist_now=43.6005 point_now=599 32
+Cur dist=43.6005 dist_now=456.248 point_now=113 127
+Dist=43.6005
+
+
+
+size=5
+cur point=603 58
+Cur dist=1.79769e+308 dist_now=373.551 point_now=231 24
+Cur dist=373.551 dist_now=254.657 point_now=350 29
+Cur dist=254.657 dist_now=128.32 point_now=478 29
+Cur dist=128.32 dist_now=26.3059 point_now=599 32
+Cur dist=26.3059 dist_now=494.834 point_now=113 127
+Dist=26.3059
+
+
+
+size=5
+cur point=621 58
+Cur dist=1.79769e+308 dist_now=391.479 point_now=231 24
+Cur dist=391.479 dist_now=272.547 point_now=350 29
+Cur dist=272.547 dist_now=145.911 point_now=478 29
+Cur dist=145.911 dist_now=34.0588 point_now=599 32
+Cur dist=34.0588 dist_now=512.665 point_now=113 127
+Dist=34.0588
+
+
+
+size=5
+cur point=626 58
+Cur dist=1.79769e+308 dist_now=396.461 point_now=231 24
+Cur dist=396.461 dist_now=277.519 point_now=350 29
+Cur dist=277.519 dist_now=150.814 point_now=478 29
+Cur dist=150.814 dist_now=37.4833 point_now=599 32
+Cur dist=37.4833 dist_now=517.62 point_now=113 127
+Dist=37.4833
+
+
+
+size=5
+cur point=625 58
+Cur dist=1.79769e+308 dist_now=395.464 point_now=231 24
+Cur dist=395.464 dist_now=276.525 point_now=350 29
+Cur dist=276.525 dist_now=149.833 point_now=478 29
+Cur dist=149.833 dist_now=36.7696 point_now=599 32
+Cur dist=36.7696 dist_now=516.628 point_now=113 127
+Dist=36.7696
+
+
+
+size=5
+cur point=555 58
+Cur dist=1.79769e+308 dist_now=325.779 point_now=231 24
+Cur dist=325.779 dist_now=207.041 point_now=350 29
+Cur dist=207.041 dist_now=82.28 point_now=478 29
+Cur dist=82.28 dist_now=51.1077 point_now=599 32
+Cur dist=51.1077 dist_now=447.353 point_now=113 127
+Dist=51.1077
+
+
+
+size=5
+cur point=405 58
+Cur dist=1.79769e+308 dist_now=177.291 point_now=231 24
+Cur dist=177.291 dist_now=62.1772 point_now=350 29
+Cur dist=62.1772 dist_now=78.5493 point_now=478 29
+Cur dist=62.1772 dist_now=195.735 point_now=599 32
+Cur dist=62.1772 dist_now=300.042 point_now=113 127
+Dist=62.1772
+
+
+
+size=5
+cur point=259 61
+Cur dist=1.79769e+308 dist_now=46.4004 point_now=231 24
+Cur dist=46.4004 dist_now=96.4624 point_now=350 29
+Cur dist=46.4004 dist_now=221.326 point_now=478 29
+Cur dist=46.4004 dist_now=341.235 point_now=599 32
+Cur dist=46.4004 dist_now=160.225 point_now=113 127
+Dist=46.4004
+
+
+
+size=5
+cur point=231 65
+Cur dist=1.79769e+308 dist_now=41 point_now=231 24
+Cur dist=41 dist_now=124.326 point_now=350 29
+Cur dist=41 dist_now=249.61 point_now=478 29
+Cur dist=41 dist_now=369.477 point_now=599 32
+Cur dist=41 dist_now=133.297 point_now=113 127
+Dist=41
+
+
+
+size=5
+cur point=203 88
+Cur dist=1.79769e+308 dist_now=69.857 point_now=231 24
+Cur dist=69.857 dist_now=158.398 point_now=350 29
+Cur dist=69.857 dist_now=281.258 point_now=478 29
+Cur dist=69.857 dist_now=399.94 point_now=599 32
+Cur dist=69.857 dist_now=98.0867 point_now=113 127
+Dist=69.857
+
+
+
+size=5
+cur point=172 134
+Cur dist=1.79769e+308 dist_now=124.824 point_now=231 24
+Cur dist=124.824 dist_now=206.662 point_now=350 29
+Cur dist=124.824 dist_now=323.514 point_now=478 29
+Cur dist=124.824 dist_now=439.014 point_now=599 32
+Cur dist=124.824 dist_now=59.4138 point_now=113 127
+Dist=59.4138
+
+
+
+size=5
+cur point=162 162
+Cur dist=1.79769e+308 dist_now=154.289 point_now=231 24
+Cur dist=154.289 dist_now=230.289 point_now=350 29
+Cur dist=154.289 dist_now=342.848 point_now=478 29
+Cur dist=154.289 dist_now=455.927 point_now=599 32
+Cur dist=154.289 dist_now=60.2163 point_now=113 127
+Dist=60.2163
+
+
+
+size=5
+cur point=160 167
+Cur dist=1.79769e+308 dist_now=159.656 point_now=231 24
+Cur dist=159.656 dist_now=234.828 point_now=350 29
+Cur dist=159.656 dist_now=346.653 point_now=478 29
+Cur dist=159.656 dist_now=459.289 point_now=599 32
+Cur dist=159.656 dist_now=61.7171 point_now=113 127
+Dist=61.7171
+
+
+
+size=5
+cur point=156 177
+Cur dist=1.79769e+308 dist_now=170.394 point_now=231 24
+Cur dist=170.394 dist_now=244.008 point_now=350 29
+Cur dist=170.394 dist_now=354.384 point_now=478 29
+Cur dist=170.394 dist_now=466.127 point_now=599 32
+Cur dist=170.394 dist_now=65.9469 point_now=113 127
+Dist=65.9469
+
+
+
+size=5
+cur point=155 178
+Cur dist=1.79769e+308 dist_now=171.732 point_now=231 24
+Cur dist=171.732 dist_now=245.41 point_now=350 29
+Cur dist=171.732 dist_now=355.711 point_now=478 29
+Cur dist=171.732 dist_now=467.388 point_now=599 32
+Cur dist=171.732 dist_now=66.0681 point_now=113 127
+Dist=66.0681
+
+
+
+size=5
+cur point=153 175
+Cur dist=1.79769e+308 dist_now=169.956 point_now=231 24
+Cur dist=169.956 dist_now=245.204 point_now=350 29
+Cur dist=169.956 dist_now=356.288 point_now=478 29
+Cur dist=169.956 dist_now=468.364 point_now=599 32
+Cur dist=169.956 dist_now=62.482 point_now=113 127
+Dist=62.482
+
+
+
+size=5
+cur point=150 171
+Cur dist=1.79769e+308 dist_now=167.839 point_now=231 24
+Cur dist=167.839 dist_now=245.284 point_now=350 29
+Cur dist=167.839 dist_now=357.419 point_now=478 29
+Cur dist=167.839 dist_now=470.023 point_now=599 32
+Cur dist=167.839 dist_now=57.4891 point_now=113 127
+Dist=57.4891
+
+
+
+size=5
+cur point=149 155
+Cur dist=1.79769e+308 dist_now=154.548 point_now=231 24
+Cur dist=154.548 dist_now=237.228 point_now=350 29
+Cur dist=154.548 dist_now=352.302 point_now=478 29
+Cur dist=154.548 dist_now=466.507 point_now=599 32
+Cur dist=154.548 dist_now=45.607 point_now=113 127
+Dist=45.607
+
+
+
+size=5
+cur point=189 122
+Cur dist=1.79769e+308 dist_now=106.621 point_now=231 24
+Cur dist=106.621 dist_now=185.93 point_now=350 29
+Cur dist=106.621 dist_now=303.595 point_now=478 29
+Cur dist=106.621 dist_now=419.762 point_now=599 32
+Cur dist=106.621 dist_now=76.1643 point_now=113 127
+Dist=76.1643
+
+
+
+size=5
+cur point=227 96
+Cur dist=1.79769e+308 dist_now=72.111 point_now=231 24
+Cur dist=72.111 dist_now=140.064 point_now=350 29
+Cur dist=72.111 dist_now=259.788 point_now=478 29
+Cur dist=72.111 dist_now=377.465 point_now=599 32
+Cur dist=72.111 dist_now=118.14 point_now=113 127
+Dist=72.111
+
+
+
+size=5
+cur point=247 83
+Cur dist=1.79769e+308 dist_now=61.131 point_now=231 24
+Cur dist=61.131 dist_now=116.297 point_now=350 29
+Cur dist=61.131 dist_now=237.228 point_now=478 29
+Cur dist=61.131 dist_now=355.675 point_now=599 32
+Cur dist=61.131 dist_now=141.039 point_now=113 127
+Dist=61.131
+
+
+
+size=5
+cur point=250 81
+Cur dist=1.79769e+308 dist_now=60.0833 point_now=231 24
+Cur dist=60.0833 dist_now=112.712 point_now=350 29
+Cur dist=60.0833 dist_now=233.855 point_now=478 29
+Cur dist=60.0833 dist_now=352.423 point_now=599 32
+Cur dist=60.0833 dist_now=144.516 point_now=113 127
+Dist=60.0833
+
+
+
+size=5
+cur point=251 81
+Cur dist=1.79769e+308 dist_now=60.407 point_now=231 24
+Cur dist=60.407 dist_now=111.826 point_now=350 29
+Cur dist=60.407 dist_now=232.88 point_now=478 29
+Cur dist=60.407 dist_now=351.433 point_now=599 32
+Cur dist=60.407 dist_now=145.465 point_now=113 127
+Dist=60.407
+
+
+
+size=5
+cur point=275 77
+Cur dist=1.79769e+308 dist_now=68.884 point_now=231 24
+Cur dist=68.884 dist_now=89.0449 point_now=350 29
+Cur dist=68.884 dist_now=208.598 point_now=478 29
+Cur dist=68.884 dist_now=327.11 point_now=599 32
+Cur dist=68.884 dist_now=169.541 point_now=113 127
+Dist=68.884
+
+
+
+size=5
+cur point=330 68
+Cur dist=1.79769e+308 dist_now=108.337 point_now=231 24
+Cur dist=108.337 dist_now=43.8292 point_now=350 29
+Cur dist=43.8292 dist_now=153.052 point_now=478 29
+Cur dist=43.8292 dist_now=271.398 point_now=599 32
+Cur dist=43.8292 dist_now=224.878 point_now=113 127
+Dist=43.8292
+
+
+
+size=5
+cur point=340 65
+Cur dist=1.79769e+308 dist_now=116.456 point_now=231 24
+Cur dist=116.456 dist_now=37.3631 point_now=350 29
+Cur dist=37.3631 dist_now=142.618 point_now=478 29
+Cur dist=37.3631 dist_now=261.094 point_now=599 32
+Cur dist=37.3631 dist_now=235.315 point_now=113 127
+Dist=37.3631
+
+
+
+size=5
+cur point=341 64
+Cur dist=1.79769e+308 dist_now=117.047 point_now=231 24
+Cur dist=117.047 dist_now=36.1386 point_now=350 29
+Cur dist=36.1386 dist_now=141.4 point_now=478 29
+Cur dist=36.1386 dist_now=259.977 point_now=599 32
+Cur dist=36.1386 dist_now=236.544 point_now=113 127
+Dist=36.1386
+
+
+
+size=5
+cur point=343 64
+Cur dist=1.79769e+308 dist_now=118.929 point_now=231 24
+Cur dist=118.929 dist_now=35.6931 point_now=350 29
+Cur dist=35.6931 dist_now=139.463 point_now=478 29
+Cur dist=35.6931 dist_now=257.992 point_now=599 32
+Cur dist=35.6931 dist_now=238.472 point_now=113 127
+Dist=35.6931
+
+
+
+size=5
+cur point=343 64
+Cur dist=1.79769e+308 dist_now=118.929 point_now=231 24
+Cur dist=118.929 dist_now=35.6931 point_now=350 29
+Cur dist=35.6931 dist_now=139.463 point_now=478 29
+Cur dist=35.6931 dist_now=257.992 point_now=599 32
+Cur dist=35.6931 dist_now=238.472 point_now=113 127
+Dist=35.6931
+
+
+
+size=5
+cur point=344 64
+Cur dist=1.79769e+308 dist_now=119.871 point_now=231 24
+Cur dist=119.871 dist_now=35.5106 point_now=350 29
+Cur dist=35.5106 dist_now=138.495 point_now=478 29
+Cur dist=35.5106 dist_now=257 point_now=599 32
+Cur dist=35.5106 dist_now=239.437 point_now=113 127
+Dist=35.5106
+
+
+
+size=5
+cur point=400 61
+Cur dist=1.79769e+308 dist_now=173.003 point_now=231 24
+Cur dist=173.003 dist_now=59.3633 point_now=350 29
+Cur dist=59.3633 dist_now=84.309 point_now=478 29
+Cur dist=59.3633 dist_now=201.102 point_now=599 32
+Cur dist=59.3633 dist_now=294.491 point_now=113 127
+Dist=59.3633
+
+
+
+size=5
+cur point=520 61
+Cur dist=1.79769e+308 dist_now=291.359 point_now=231 24
+Cur dist=291.359 dist_now=172.986 point_now=350 29
+Cur dist=172.986 dist_now=52.8015 point_now=478 29
+Cur dist=52.8015 dist_now=84.1546 point_now=599 32
+Cur dist=52.8015 dist_now=412.317 point_now=113 127
+Dist=52.8015
+
+
+
+size=5
+cur point=521 61
+Cur dist=1.79769e+308 dist_now=292.351 point_now=231 24
+Cur dist=292.351 dist_now=173.968 point_now=350 29
+Cur dist=173.968 dist_now=53.6004 point_now=478 29
+Cur dist=53.6004 dist_now=83.2166 point_now=599 32
+Cur dist=53.6004 dist_now=413.304 point_now=113 127
+Dist=53.6004
+
+
+
+size=5
+cur point=529 61
+Cur dist=1.79769e+308 dist_now=300.288 point_now=231 24
+Cur dist=300.288 dist_now=181.838 point_now=350 29
+Cur dist=181.838 dist_now=60.208 point_now=478 29
+Cur dist=60.208 dist_now=75.7694 point_now=599 32
+Cur dist=60.208 dist_now=421.203 point_now=113 127
+Dist=60.208
+
+
+
+size=5
+cur point=633 61
+Cur dist=1.79769e+308 dist_now=403.699 point_now=231 24
+Cur dist=403.699 dist_now=284.803 point_now=350 29
+Cur dist=284.803 dist_now=158.269 point_now=478 29
+Cur dist=158.269 dist_now=44.6878 point_now=599 32
+Cur dist=44.6878 dist_now=524.172 point_now=113 127
+Dist=44.6878
+
+
+
+size=5
+cur point=649 61
+Cur dist=1.79769e+308 dist_now=419.634 point_now=231 24
+Cur dist=419.634 dist_now=300.707 point_now=350 29
+Cur dist=300.707 dist_now=173.968 point_now=478 29
+Cur dist=173.968 dist_now=57.8014 point_now=599 32
+Cur dist=57.8014 dist_now=540.048 point_now=113 127
+Dist=57.8014
+
+
+
+size=5
+cur point=648 61
+Cur dist=1.79769e+308 dist_now=418.638 point_now=231 24
+Cur dist=418.638 dist_now=299.713 point_now=350 29
+Cur dist=299.713 dist_now=172.986 point_now=478 29
+Cur dist=172.986 dist_now=56.9386 point_now=599 32
+Cur dist=56.9386 dist_now=539.056 point_now=113 127
+Dist=56.9386
+
+
+
+size=5
+cur point=544 60
+Cur dist=1.79769e+308 dist_now=315.063 point_now=231 24
+Cur dist=315.063 dist_now=196.461 point_now=350 29
+Cur dist=196.461 dist_now=72.9178 point_now=478 29
+Cur dist=72.9178 dist_now=61.7171 point_now=599 32
+Cur dist=61.7171 dist_now=436.177 point_now=113 127
+Dist=61.7171
+
+
+
+size=5
+cur point=368 60
+Cur dist=1.79769e+308 dist_now=141.651 point_now=231 24
+Cur dist=141.651 dist_now=35.8469 point_now=350 29
+Cur dist=35.8469 dist_now=114.285 point_now=478 29
+Cur dist=35.8469 dist_now=232.691 point_now=599 32
+Cur dist=35.8469 dist_now=263.655 point_now=113 127
+Dist=35.8469
+
+
+
+size=5
+cur point=358 60
+Cur dist=1.79769e+308 dist_now=132.004 point_now=231 24
+Cur dist=132.004 dist_now=32.0156 point_now=350 29
+Cur dist=32.0156 dist_now=123.94 point_now=478 29
+Cur dist=32.0156 dist_now=242.621 point_now=599 32
+Cur dist=32.0156 dist_now=253.996 point_now=113 127
+Dist=32.0156
+
+
+
+size=5
+cur point=347 60
+Cur dist=1.79769e+308 dist_now=121.458 point_now=231 24
+Cur dist=121.458 dist_now=31.1448 point_now=350 29
+Cur dist=31.1448 dist_now=134.618 point_now=478 29
+Cur dist=31.1448 dist_now=253.551 point_now=599 32
+Cur dist=31.1448 dist_now=243.403 point_now=113 127
+Dist=31.1448
+
+
+
+size=5
+cur point=331 60
+Cur dist=1.79769e+308 dist_now=106.283 point_now=231 24
+Cur dist=106.283 dist_now=36.3593 point_now=350 29
+Cur dist=36.3593 dist_now=150.233 point_now=478 29
+Cur dist=36.3593 dist_now=269.459 point_now=599 32
+Cur dist=36.3593 dist_now=228.064 point_now=113 127
+Dist=36.3593
+
+
+
+size=5
+cur point=294 73
+Cur dist=1.79769e+308 dist_now=79.8123 point_now=231 24
+Cur dist=79.8123 dist_now=71.218 point_now=350 29
+Cur dist=71.218 dist_now=189.188 point_now=478 29
+Cur dist=71.218 dist_now=307.743 point_now=599 32
+Cur dist=71.218 dist_now=188.884 point_now=113 127
+Dist=71.218
+
+
+
+size=5
+cur point=263 92
+Cur dist=1.79769e+308 dist_now=75.1532 point_now=231 24
+Cur dist=75.1532 dist_now=107.415 point_now=350 29
+Cur dist=75.1532 dist_now=224.04 point_now=478 29
+Cur dist=75.1532 dist_now=341.315 point_now=599 32
+Cur dist=75.1532 dist_now=154.029 point_now=113 127
+Dist=75.1532
+
+
+
+size=5
+cur point=199 148
+Cur dist=1.79769e+308 dist_now=128.062 point_now=231 24
+Cur dist=128.062 dist_now=192.255 point_now=350 29
+Cur dist=128.062 dist_now=303.318 point_now=478 29
+Cur dist=128.062 dist_now=416.48 point_now=599 32
+Cur dist=128.062 dist_now=88.5268 point_now=113 127
+Dist=88.5268
+
+
+
+size=5
+cur point=187 173
+Cur dist=1.79769e+308 dist_now=155.361 point_now=231 24
+Cur dist=155.361 dist_now=217.497 point_now=350 29
+Cur dist=155.361 dist_now=324.68 point_now=478 29
+Cur dist=155.361 dist_now=435.46 point_now=599 32
+Cur dist=155.361 dist_now=87.1321 point_now=113 127
+Dist=87.1321
+
+
+
+size=5
+cur point=188 183
+Cur dist=1.79769e+308 dist_now=164.712 point_now=231 24
+Cur dist=164.712 dist_now=223.517 point_now=350 29
+Cur dist=164.712 dist_now=328.353 point_now=478 29
+Cur dist=164.712 dist_now=437.861 point_now=599 32
+Cur dist=164.712 dist_now=93.6002 point_now=113 127
+Dist=93.6002
+
+
+
+size=5
+cur point=192 187
+Cur dist=1.79769e+308 dist_now=167.601 point_now=231 24
+Cur dist=167.601 dist_now=223.446 point_now=350 29
+Cur dist=167.601 dist_now=326.741 point_now=478 29
+Cur dist=167.601 dist_now=435.516 point_now=599 32
+Cur dist=167.601 dist_now=99.2018 point_now=113 127
+Dist=99.2018
+
+
+
+size=5
+cur point=205 182
+Cur dist=1.79769e+308 dist_now=160.125 point_now=231 24
+Cur dist=160.125 dist_now=210.794 point_now=350 29
+Cur dist=160.125 dist_now=312.95 point_now=478 29
+Cur dist=160.125 dist_now=421.587 point_now=599 32
+Cur dist=160.125 dist_now=107.187 point_now=113 127
+Dist=107.187
+
+
+
+size=5
+cur point=248 124
+Cur dist=1.79769e+308 dist_now=101.435 point_now=231 24
+Cur dist=101.435 dist_now=139.388 point_now=350 29
+Cur dist=101.435 dist_now=248.847 point_now=478 29
+Cur dist=101.435 dist_now=362.857 point_now=599 32
+Cur dist=101.435 dist_now=135.033 point_now=113 127
+Dist=101.435
+
+
+
+size=5
+cur point=286 92
+Cur dist=1.79769e+308 dist_now=87.4586 point_now=231 24
+Cur dist=87.4586 dist_now=89.8053 point_now=350 29
+Cur dist=87.4586 dist_now=202.072 point_now=478 29
+Cur dist=87.4586 dist_now=318.699 point_now=599 32
+Cur dist=87.4586 dist_now=176.505 point_now=113 127
+Dist=87.4586
+
+
+
+size=5
+cur point=401 60
+Cur dist=1.79769e+308 dist_now=173.77 point_now=231 24
+Cur dist=173.77 dist_now=59.6825 point_now=350 29
+Cur dist=59.6825 dist_now=83.006 point_now=478 29
+Cur dist=59.6825 dist_now=199.97 point_now=599 32
+Cur dist=59.6825 dist_now=295.691 point_now=113 127
+Dist=59.6825
+
+
+
+size=5
+cur point=449 58
+Cur dist=1.79769e+308 dist_now=220.635 point_now=231 24
+Cur dist=220.635 dist_now=103.16 point_now=350 29
+Cur dist=103.16 dist_now=41.0122 point_now=478 29
+Cur dist=41.0122 dist_now=152.237 point_now=599 32
+Cur dist=41.0122 dist_now=343.012 point_now=113 127
+Dist=41.0122
+
+
+
+size=5
+cur point=491 68
+Cur dist=1.79769e+308 dist_now=263.697 point_now=231 24
+Cur dist=263.697 dist_now=146.294 point_now=350 29
+Cur dist=146.294 dist_now=41.1096 point_now=478 29
+Cur dist=41.1096 dist_now=113.842 point_now=599 32
+Cur dist=41.1096 dist_now=382.577 point_now=113 127
+Dist=41.1096
+
+
+
+size=5
+cur point=534 78
+Cur dist=1.79769e+308 dist_now=307.774 point_now=231 24
+Cur dist=307.774 dist_now=190.413 point_now=350 29
+Cur dist=190.413 dist_now=74.411 point_now=478 29
+Cur dist=74.411 dist_now=79.6304 point_now=599 32
+Cur dist=74.411 dist_now=423.842 point_now=113 127
+Dist=74.411
+
+
+
+size=5
+cur point=568 78
+Cur dist=1.79769e+308 dist_now=341.299 point_now=231 24
+Cur dist=341.299 dist_now=223.439 point_now=350 29
+Cur dist=223.439 dist_now=102.474 point_now=478 29
+Cur dist=102.474 dist_now=55.4707 point_now=599 32
+Cur dist=55.4707 dist_now=457.631 point_now=113 127
+Dist=55.4707
+
+
+
+size=5
+cur point=581 78
+Cur dist=1.79769e+308 dist_now=354.141 point_now=231 24
+Cur dist=354.141 dist_now=236.14 point_now=350 29
+Cur dist=236.14 dist_now=114.061 point_now=478 29
+Cur dist=114.061 dist_now=49.3964 point_now=599 32
+Cur dist=49.3964 dist_now=470.558 point_now=113 127
+Dist=49.3964
+
+
+
+size=5
+cur point=580 78
+Cur dist=1.79769e+308 dist_now=353.153 point_now=231 24
+Cur dist=353.153 dist_now=235.162 point_now=350 29
+Cur dist=235.162 dist_now=113.159 point_now=478 29
+Cur dist=113.159 dist_now=49.7695 point_now=599 32
+Cur dist=49.7695 dist_now=469.564 point_now=113 127
+Dist=49.7695
+
+
+
+size=5
+cur point=548 81
+Cur dist=1.79769e+308 dist_now=322.084 point_now=231 24
+Cur dist=322.084 dist_now=204.714 point_now=350 29
+Cur dist=204.714 dist_now=87.2009 point_now=478 29
+Cur dist=87.2009 dist_now=70.7248 point_now=599 32
+Cur dist=70.7248 dist_now=437.425 point_now=113 127
+Dist=70.7248
+
+
+
+size=5
+cur point=465 81
+Cur dist=1.79769e+308 dist_now=240.842 point_now=231 24
+Cur dist=240.842 dist_now=126.21 point_now=350 29
+Cur dist=126.21 dist_now=53.6004 point_now=478 29
+Cur dist=53.6004 dist_now=142.678 point_now=599 32
+Cur dist=53.6004 dist_now=354.993 point_now=113 127
+Dist=53.6004
+
+
+
+size=5
+cur point=426 81
+Cur dist=1.79769e+308 dist_now=203.16 point_now=231 24
+Cur dist=203.16 dist_now=92.0869 point_now=350 29
+Cur dist=92.0869 dist_now=73.5391 point_now=478 29
+Cur dist=73.5391 dist_now=179.805 point_now=599 32
+Cur dist=73.5391 dist_now=316.362 point_now=113 127
+Dist=73.5391
+
+
+
+size=5
+cur point=410 81
+Cur dist=1.79769e+308 dist_now=187.856 point_now=231 24
+Cur dist=187.856 dist_now=79.3977 point_now=350 29
+Cur dist=79.3977 dist_now=85.6037 point_now=478 29
+Cur dist=79.3977 dist_now=195.249 point_now=599 32
+Cur dist=79.3977 dist_now=300.541 point_now=113 127
+Dist=79.3977
+
+
+
+size=5
+cur point=403 81
+Cur dist=1.79769e+308 dist_now=181.199 point_now=231 24
+Cur dist=181.199 dist_now=74.2496 point_now=350 29
+Cur dist=74.2496 dist_now=91.2634 point_now=478 29
+Cur dist=74.2496 dist_now=202.032 point_now=599 32
+Cur dist=74.2496 dist_now=293.626 point_now=113 127
+Dist=74.2496
+
+
+
+size=5
+cur point=399 80
+Cur dist=1.79769e+308 dist_now=177.088 point_now=231 24
+Cur dist=177.088 dist_now=70.7248 point_now=350 29
+Cur dist=70.7248 dist_now=94.0319 point_now=478 29
+Cur dist=70.7248 dist_now=205.679 point_now=599 32
+Cur dist=70.7248 dist_now=289.836 point_now=113 127
+Dist=70.7248
+
+
+
+size=5
+cur point=392 76
+Cur dist=1.79769e+308 dist_now=169.189 point_now=231 24
+Cur dist=169.189 dist_now=63.0317 point_now=350 29
+Cur dist=63.0317 dist_now=98.0051 point_now=478 29
+Cur dist=63.0317 dist_now=211.625 point_now=599 32
+Cur dist=63.0317 dist_now=283.623 point_now=113 127
+Dist=63.0317
+
+
+
+size=5
+cur point=391 76
+Cur dist=1.79769e+308 dist_now=168.238 point_now=231 24
+Cur dist=168.238 dist_now=62.3699 point_now=350 29
+Cur dist=62.3699 dist_now=98.8838 point_now=478 29
+Cur dist=62.3699 dist_now=212.603 point_now=599 32
+Cur dist=62.3699 dist_now=282.639 point_now=113 127
+Dist=62.3699
+
+
+
+size=5
+cur point=213 154
+Cur dist=1.79769e+308 dist_now=131.24 point_now=231 24
+Cur dist=131.24 dist_now=185.456 point_now=350 29
+Cur dist=131.24 dist_now=293.002 point_now=478 29
+Cur dist=131.24 dist_now=404.821 point_now=599 32
+Cur dist=131.24 dist_now=103.581 point_now=113 127
+Dist=103.581
+
+
+
+size=5
+cur point=214 154
+Cur dist=1.79769e+308 dist_now=131.107 point_now=231 24
+Cur dist=131.107 dist_now=184.719 point_now=350 29
+Cur dist=131.107 dist_now=292.098 point_now=478 29
+Cur dist=131.107 dist_now=403.868 point_now=599 32
+Cur dist=131.107 dist_now=104.547 point_now=113 127
+Dist=104.547
+
+
+
+size=5
+cur point=228 142
+Cur dist=1.79769e+308 dist_now=118.038 point_now=231 24
+Cur dist=118.038 dist_now=166.292 point_now=350 29
+Cur dist=118.038 dist_now=274.352 point_now=478 29
+Cur dist=118.038 dist_now=386.964 point_now=599 32
+Cur dist=118.038 dist_now=115.974 point_now=113 127
+Dist=115.974
+
+
+
+size=5
+cur point=253 132
+Cur dist=1.79769e+308 dist_now=110.218 point_now=231 24
+Cur dist=110.218 dist_now=141.485 point_now=350 29
+Cur dist=110.218 dist_now=247.455 point_now=478 29
+Cur dist=110.218 dist_now=360.161 point_now=599 32
+Cur dist=110.218 dist_now=140.089 point_now=113 127
+Dist=110.218
+
+
+
+size=5
+cur point=299 116
+Cur dist=1.79769e+308 dist_now=114.403 point_now=231 24
+Cur dist=114.403 dist_now=100.846 point_now=350 29
+Cur dist=100.846 dist_now=199.023 point_now=478 29
+Cur dist=100.846 dist_now=311.538 point_now=599 32
+Cur dist=100.846 dist_now=186.325 point_now=113 127
+Dist=100.846
+
+
+
+size=5
+cur point=361 99
+Cur dist=1.79769e+308 dist_now=150.083 point_now=231 24
+Cur dist=150.083 dist_now=70.859 point_now=350 29
+Cur dist=70.859 dist_now=136.341 point_now=478 29
+Cur dist=70.859 dist_now=247.251 point_now=599 32
+Cur dist=70.859 dist_now=249.576 point_now=113 127
+Dist=70.859
+
+
+
+size=5
+cur point=484 73
+Cur dist=1.79769e+308 dist_now=257.701 point_now=231 24
+Cur dist=257.701 dist_now=141.039 point_now=350 29
+Cur dist=141.039 dist_now=44.4072 point_now=478 29
+Cur dist=44.4072 dist_now=122.09 point_now=599 32
+Cur dist=44.4072 dist_now=374.909 point_now=113 127
+Dist=44.4072
+
+
+
+size=5
+cur point=583 47
+Cur dist=1.79769e+308 dist_now=352.751 point_now=231 24
+Cur dist=352.751 dist_now=233.694 point_now=350 29
+Cur dist=233.694 dist_now=106.532 point_now=478 29
+Cur dist=106.532 dist_now=21.9317 point_now=599 32
+Cur dist=21.9317 dist_now=476.76 point_now=113 127
+Dist=21.9317
+
+
+
+size=5
+cur point=645 40
+Cur dist=1.79769e+308 dist_now=414.309 point_now=231 24
+Cur dist=414.309 dist_now=295.205 point_now=350 29
+Cur dist=295.205 dist_now=167.362 point_now=478 29
+Cur dist=167.362 dist_now=46.6905 point_now=599 32
+Cur dist=46.6905 dist_now=539.067 point_now=113 127
+Dist=46.6905
+
+
+
+size=5
+cur point=661 41
+Cur dist=1.79769e+308 dist_now=430.336 point_now=231 24
+Cur dist=430.336 dist_now=311.231 point_now=350 29
+Cur dist=311.231 dist_now=183.393 point_now=478 29
+Cur dist=183.393 dist_now=62.6498 point_now=599 32
+Cur dist=62.6498 dist_now=554.707 point_now=113 127
+Dist=62.6498
+
+
+
+size=5
+cur point=677 49
+Cur dist=1.79769e+308 dist_now=446.7 point_now=231 24
+Cur dist=446.7 dist_now=327.611 point_now=350 29
+Cur dist=327.611 dist_now=200.002 point_now=478 29
+Cur dist=200.002 dist_now=79.8311 point_now=599 32
+Cur dist=79.8311 dist_now=569.368 point_now=113 127
+Dist=79.8311
+
+
+
+size=5
+cur point=693 66
+Cur dist=1.79769e+308 dist_now=463.905 point_now=231 24
+Cur dist=463.905 dist_now=344.99 point_now=350 29
+Cur dist=344.99 dist_now=218.16 point_now=478 29
+Cur dist=218.16 dist_now=99.96 point_now=599 32
+Cur dist=99.96 dist_now=583.199 point_now=113 127
+Dist=99.96
+
+
+
+size=5
+cur point=694 69
+Cur dist=1.79769e+308 dist_now=465.182 point_now=231 24
+Cur dist=465.182 dist_now=346.318 point_now=350 29
+Cur dist=346.318 dist_now=219.672 point_now=478 29
+Cur dist=219.672 dist_now=101.951 point_now=599 32
+Cur dist=101.951 dist_now=583.888 point_now=113 127
+Dist=101.951
+
+
+
+size=5
+cur point=694 70
+Cur dist=1.79769e+308 dist_now=465.279 point_now=231 24
+Cur dist=465.279 dist_now=346.435 point_now=350 29
+Cur dist=346.435 dist_now=219.857 point_now=478 29
+Cur dist=219.857 dist_now=102.318 point_now=599 32
+Cur dist=102.318 dist_now=583.789 point_now=113 127
+Dist=102.318
+
+
+
+size=5
+cur point=644 46
+Cur dist=1.79769e+308 dist_now=413.586 point_now=231 24
+Cur dist=413.586 dist_now=294.491 point_now=350 29
+Cur dist=294.491 dist_now=166.868 point_now=478 29
+Cur dist=166.868 dist_now=47.1275 point_now=599 32
+Cur dist=47.1275 dist_now=537.142 point_now=113 127
+Dist=47.1275
+
+
+
+size=5
+cur point=518 15
+Cur dist=1.79769e+308 dist_now=287.141 point_now=231 24
+Cur dist=287.141 dist_now=168.582 point_now=350 29
+Cur dist=168.582 dist_now=42.3792 point_now=478 29
+Cur dist=42.3792 dist_now=82.7647 point_now=599 32
+Cur dist=42.3792 dist_now=420.201 point_now=113 127
+Dist=42.3792
+
+
+
+size=5
+cur point=400 2
+Cur dist=1.79769e+308 dist_now=170.426 point_now=231 24
+Cur dist=170.426 dist_now=56.8243 point_now=350 29
+Cur dist=56.8243 dist_now=82.5409 point_now=478 29
+Cur dist=56.8243 dist_now=201.249 point_now=599 32
+Cur dist=56.8243 dist_now=313.04 point_now=113 127
+Dist=56.8243
+
+
+
+size=5
+cur point=326 0
+Cur dist=1.79769e+308 dist_now=97.9847 point_now=231 24
+Cur dist=97.9847 dist_now=37.6431 point_now=350 29
+Cur dist=37.6431 dist_now=154.742 point_now=478 29
+Cur dist=37.6431 dist_now=274.869 point_now=599 32
+Cur dist=37.6431 dist_now=247.988 point_now=113 127
+Dist=37.6431
+
+
+
+size=5
+cur point=295 6
+Cur dist=1.79769e+308 dist_now=66.4831 point_now=231 24
+Cur dist=66.4831 dist_now=59.6154 point_now=350 29
+Cur dist=59.6154 dist_now=184.44 point_now=478 29
+Cur dist=59.6154 dist_now=305.11 point_now=599 32
+Cur dist=59.6154 dist_now=218.552 point_now=113 127
+Dist=59.6154
+
+
+
+size=5
+cur point=264 19
+Cur dist=1.79769e+308 dist_now=33.3766 point_now=231 24
+Cur dist=33.3766 dist_now=86.5794 point_now=350 29
+Cur dist=33.3766 dist_now=214.234 point_now=478 29
+Cur dist=33.3766 dist_now=335.252 point_now=599 32
+Cur dist=33.3766 dist_now=185.648 point_now=113 127
+Dist=33.3766
+
+
+
+size=5
+cur point=202 38
+Cur dist=1.79769e+308 dist_now=32.2025 point_now=231 24
+Cur dist=32.2025 dist_now=148.273 point_now=350 29
+Cur dist=32.2025 dist_now=276.147 point_now=478 29
+Cur dist=32.2025 dist_now=397.045 point_now=599 32
+Cur dist=32.2025 dist_now=125.865 point_now=113 127
+Dist=32.2025
+
+
+
+size=5
+cur point=158 65
+Cur dist=1.79769e+308 dist_now=83.7257 point_now=231 24
+Cur dist=83.7257 dist_now=195.346 point_now=350 29
+Cur dist=83.7257 dist_now=322.019 point_now=478 29
+Cur dist=83.7257 dist_now=442.233 point_now=599 32
+Cur dist=83.7257 dist_now=76.6094 point_now=113 127
+Dist=76.6094
+
+
+
+size=5
+cur point=133 91
+Cur dist=1.79769e+308 dist_now=118.714 point_now=231 24
+Cur dist=118.714 dist_now=225.683 point_now=350 29
+Cur dist=118.714 dist_now=350.527 point_now=478 29
+Cur dist=118.714 dist_now=469.72 point_now=599 32
+Cur dist=118.714 dist_now=41.1825 point_now=113 127
+Dist=41.1825
+
+
+
+size=5
+cur point=111 122
+Cur dist=1.79769e+308 dist_now=154.932 point_now=231 24
+Cur dist=154.932 dist_now=256.457 point_now=350 29
+Cur dist=154.932 dist_now=378.6 point_now=478 29
+Cur dist=154.932 dist_now=496.23 point_now=599 32
+Cur dist=154.932 dist_now=5.38516 point_now=113 127
+Dist=5.38516
+
+
+
+size=5
+cur point=104 156
+Cur dist=1.79769e+308 dist_now=183.175 point_now=231 24
+Cur dist=183.175 dist_now=276.848 point_now=350 29
+Cur dist=183.175 dist_now=394.975 point_now=478 29
+Cur dist=183.175 dist_now=510.295 point_now=599 32
+Cur dist=183.175 dist_now=30.3645 point_now=113 127
+Dist=30.3645
+
+
+
+size=5
+cur point=103 163
+Cur dist=1.79769e+308 dist_now=188.958 point_now=231 24
+Cur dist=188.958 dist_now=281.007 point_now=350 29
+Cur dist=188.958 dist_now=398.222 point_now=478 29
+Cur dist=188.958 dist_now=513.008 point_now=599 32
+Cur dist=188.958 dist_now=37.3631 point_now=113 127
+Dist=37.3631
+
+
+
+size=5
+cur point=103 163
+Cur dist=1.79769e+308 dist_now=188.958 point_now=231 24
+Cur dist=188.958 dist_now=281.007 point_now=350 29
+Cur dist=188.958 dist_now=398.222 point_now=478 29
+Cur dist=188.958 dist_now=513.008 point_now=599 32
+Cur dist=188.958 dist_now=37.3631 point_now=113 127
+Dist=37.3631
+
+
+
+size=5
+cur point=114 150
+Cur dist=1.79769e+308 dist_now=171.945 point_now=231 24
+Cur dist=171.945 dist_now=265.211 point_now=350 29
+Cur dist=171.945 dist_now=383.584 point_now=478 29
+Cur dist=171.945 dist_now=499.148 point_now=599 32
+Cur dist=171.945 dist_now=23.0217 point_now=113 127
+Dist=23.0217
+
+
+
+size=5
+cur point=143 120
+Cur dist=1.79769e+308 dist_now=130.231 point_now=231 24
+Cur dist=130.231 dist_now=226.119 point_now=350 29
+Cur dist=130.231 dist_now=347.14 point_now=478 29
+Cur dist=130.231 dist_now=464.414 point_now=599 32
+Cur dist=130.231 dist_now=30.8058 point_now=113 127
+Dist=30.8058
+
+
+
+size=5
+cur point=178 97
+Cur dist=1.79769e+308 dist_now=90.2109 point_now=231 24
+Cur dist=90.2109 dist_now=184.954 point_now=350 29
+Cur dist=90.2109 dist_now=307.61 point_now=478 29
+Cur dist=90.2109 dist_now=425.988 point_now=599 32
+Cur dist=90.2109 dist_now=71.5891 point_now=113 127
+Dist=71.5891
+
+
+
+size=5
+cur point=198 85
+Cur dist=1.79769e+308 dist_now=69.3542 point_now=231 24
+Cur dist=69.3542 dist_now=161.988 point_now=350 29
+Cur dist=69.3542 dist_now=285.545 point_now=478 29
+Cur dist=69.3542 dist_now=404.487 point_now=599 32
+Cur dist=69.3542 dist_now=94.8103 point_now=113 127
+Dist=69.3542
+
+
+
+size=5
+cur point=253 74
+Cur dist=1.79769e+308 dist_now=54.626 point_now=231 24
+Cur dist=54.626 dist_now=106.93 point_now=350 29
+Cur dist=54.626 dist_now=229.456 point_now=478 29
+Cur dist=54.626 dist_now=348.54 point_now=599 32
+Cur dist=54.626 dist_now=149.696 point_now=113 127
+Dist=54.626
+
+
+
+size=5
+cur point=336 66
+Cur dist=1.79769e+308 dist_now=113.088 point_now=231 24
+Cur dist=113.088 dist_now=39.5601 point_now=350 29
+Cur dist=39.5601 dist_now=146.741 point_now=478 29
+Cur dist=39.5601 dist_now=265.189 point_now=599 32
+Cur dist=39.5601 dist_now=231.193 point_now=113 127
+Dist=39.5601
+
+
+
+size=5
+cur point=391 66
+Cur dist=1.79769e+308 dist_now=165.421 point_now=231 24
+Cur dist=165.421 dist_now=55.2268 point_now=350 29
+Cur dist=55.2268 dist_now=94.541 point_now=478 29
+Cur dist=55.2268 dist_now=210.761 point_now=599 32
+Cur dist=55.2268 dist_now=284.614 point_now=113 127
+Dist=55.2268
+
+
+
+size=5
+cur point=433 69
+Cur dist=1.79769e+308 dist_now=206.952 point_now=231 24
+Cur dist=206.952 dist_now=92.1358 point_now=350 29
+Cur dist=92.1358 dist_now=60.208 point_now=478 29
+Cur dist=60.208 dist_now=170.074 point_now=599 32
+Cur dist=60.208 dist_now=325.214 point_now=113 127
+Dist=60.208
+
+
+
+size=5
+cur point=490 79
+Cur dist=1.79769e+308 dist_now=264.775 point_now=231 24
+Cur dist=264.775 dist_now=148.661 point_now=350 29
+Cur dist=148.661 dist_now=51.4198 point_now=478 29
+Cur dist=51.4198 dist_now=118.701 point_now=599 32
+Cur dist=51.4198 dist_now=380.043 point_now=113 127
+Dist=51.4198
+
+
+
+size=5
+cur point=535 90
+Cur dist=1.79769e+308 dist_now=311.082 point_now=231 24
+Cur dist=311.082 dist_now=194.797 point_now=350 29
+Cur dist=194.797 dist_now=83.4865 point_now=478 29
+Cur dist=83.4865 dist_now=86.3713 point_now=599 32
+Cur dist=83.4865 dist_now=423.619 point_now=113 127
+Dist=83.4865
+
+
+
+size=5
+cur point=585 106
+Cur dist=1.79769e+308 dist_now=363.373 point_now=231 24
+Cur dist=363.373 dist_now=247.293 point_now=350 29
+Cur dist=247.293 dist_now=131.826 point_now=478 29
+Cur dist=131.826 dist_now=75.3127 point_now=599 32
+Cur dist=75.3127 dist_now=472.467 point_now=113 127
+Dist=75.3127
+
+
+
+size=5
+cur point=610 111
+Cur dist=1.79769e+308 dist_now=388.857 point_now=231 24
+Cur dist=388.857 dist_now=272.624 point_now=350 29
+Cur dist=272.624 dist_now=155.396 point_now=478 29
+Cur dist=155.396 dist_now=79.7621 point_now=599 32
+Cur dist=79.7621 dist_now=497.257 point_now=113 127
+Dist=79.7621
+
+
+
+size=5
+cur point=635 113
+Cur dist=1.79769e+308 dist_now=413.687 point_now=231 24
+Cur dist=413.687 dist_now=297.121 point_now=350 29
+Cur dist=297.121 dist_now=178.059 point_now=478 29
+Cur dist=178.059 dist_now=88.6397 point_now=599 32
+Cur dist=88.6397 dist_now=522.188 point_now=113 127
+Dist=88.6397
+
+
+
+size=5
+cur point=663 103
+Cur dist=1.79769e+308 dist_now=439.164 point_now=231 24
+Cur dist=439.164 dist_now=321.629 point_now=350 29
+Cur dist=321.629 dist_now=199.251 point_now=478 29
+Cur dist=199.251 dist_now=95.5877 point_now=599 32
+Cur dist=95.5877 dist_now=550.523 point_now=113 127
+Dist=95.5877
+
+
+
+size=5
+cur point=688 95
+Cur dist=1.79769e+308 dist_now=462.482 point_now=231 24
+Cur dist=462.482 dist_now=344.384 point_now=350 29
+Cur dist=344.384 dist_now=220.127 point_now=478 29
+Cur dist=220.127 dist_now=109.041 point_now=599 32
+Cur dist=109.041 dist_now=575.89 point_now=113 127
+Dist=109.041
+
+
+
+size=5
+cur point=690 95
+Cur dist=1.79769e+308 dist_now=464.459 point_now=231 24
+Cur dist=464.459 dist_now=346.347 point_now=350 29
+Cur dist=346.347 dist_now=222.036 point_now=478 29
+Cur dist=222.036 dist_now=110.68 point_now=599 32
+Cur dist=110.68 dist_now=577.887 point_now=113 127
+Dist=110.68
+
+
+
+size=5
+cur point=676 83
+Cur dist=1.79769e+308 dist_now=448.894 point_now=231 24
+Cur dist=448.894 dist_now=330.442 point_now=350 29
+Cur dist=330.442 dist_now=205.232 point_now=478 29
+Cur dist=205.232 dist_now=92.358 point_now=599 32
+Cur dist=92.358 dist_now=564.717 point_now=113 127
+Dist=92.358
+
+
+
+size=5
+cur point=622 65
+Cur dist=1.79769e+308 dist_now=393.144 point_now=231 24
+Cur dist=393.144 dist_now=274.372 point_now=350 29
+Cur dist=274.372 dist_now=148.432 point_now=478 29
+Cur dist=148.432 dist_now=40.2244 point_now=599 32
+Cur dist=40.2244 dist_now=512.762 point_now=113 127
+Dist=40.2244
+
+
+
+size=5
+cur point=470 40
+Cur dist=1.79769e+308 dist_now=239.535 point_now=231 24
+Cur dist=239.535 dist_now=120.503 point_now=350 29
+Cur dist=120.503 dist_now=13.6015 point_now=478 29
+Cur dist=13.6015 dist_now=129.248 point_now=599 32
+Cur dist=13.6015 dist_now=367.448 point_now=113 127
+Dist=13.6015
+
+
+
+size=5
+cur point=384 33
+Cur dist=1.79769e+308 dist_now=153.264 point_now=231 24
+Cur dist=153.264 dist_now=34.2345 point_now=350 29
+Cur dist=34.2345 dist_now=94.0851 point_now=478 29
+Cur dist=34.2345 dist_now=215.002 point_now=599 32
+Cur dist=34.2345 dist_now=286.84 point_now=113 127
+Dist=34.2345
+
+
+
+size=5
+cur point=348 35
+Cur dist=1.79769e+308 dist_now=117.516 point_now=231 24
+Cur dist=117.516 dist_now=6.32456 point_now=350 29
+Cur dist=6.32456 dist_now=130.138 point_now=478 29
+Cur dist=6.32456 dist_now=251.018 point_now=599 32
+Cur dist=6.32456 dist_now=252.367 point_now=113 127
+Dist=6.32456
+
+
+
+size=5
+cur point=299 39
+Cur dist=1.79769e+308 dist_now=69.6348 point_now=231 24
+Cur dist=69.6348 dist_now=51.9711 point_now=350 29
+Cur dist=51.9711 dist_now=179.279 point_now=478 29
+Cur dist=51.9711 dist_now=300.082 point_now=599 32
+Cur dist=51.9711 dist_now=205.767 point_now=113 127
+Dist=51.9711
+
+
+
+size=5
+cur point=262 43
+Cur dist=1.79769e+308 dist_now=36.3593 point_now=231 24
+Cur dist=36.3593 dist_now=89.1067 point_now=350 29
+Cur dist=36.3593 dist_now=216.453 point_now=478 29
+Cur dist=36.3593 dist_now=337.179 point_now=599 32
+Cur dist=36.3593 dist_now=171.047 point_now=113 127
+Dist=36.3593
+
+
+
+size=5
+cur point=222 48
+Cur dist=1.79769e+308 dist_now=25.632 point_now=231 24
+Cur dist=25.632 dist_now=129.402 point_now=350 29
+Cur dist=25.632 dist_now=256.704 point_now=478 29
+Cur dist=25.632 dist_now=377.339 point_now=599 32
+Cur dist=25.632 dist_now=134.618 point_now=113 127
+Dist=25.632
+
+
+
+size=5
+cur point=214 56
+Cur dist=1.79769e+308 dist_now=36.2353 point_now=231 24
+Cur dist=36.2353 dist_now=138.654 point_now=350 29
+Cur dist=36.2353 dist_now=265.377 point_now=478 29
+Cur dist=36.2353 dist_now=385.747 point_now=599 32
+Cur dist=36.2353 dist_now=123.458 point_now=113 127
+Dist=36.2353
+
+
+
+size=5
+cur point=191 99
+Cur dist=1.79769e+308 dist_now=85 point_now=231 24
+Cur dist=85 dist_now=173.727 point_now=350 29
+Cur dist=85 dist_now=295.413 point_now=478 29
+Cur dist=85 dist_now=413.465 point_now=599 32
+Cur dist=85 dist_now=82.8734 point_now=113 127
+Dist=82.8734
+
+
+
+size=5
+cur point=179 138
+Cur dist=1.79769e+308 dist_now=125.3 point_now=231 24
+Cur dist=125.3 dist_now=202.786 point_now=350 29
+Cur dist=125.3 dist_now=318.248 point_now=478 29
+Cur dist=125.3 dist_now=433.17 point_now=599 32
+Cur dist=125.3 dist_now=66.9104 point_now=113 127
+Dist=66.9104
+
+
+
+size=5
+cur point=174 161
+Cur dist=1.79769e+308 dist_now=148.385 point_now=231 24
+Cur dist=148.385 dist_now=220 point_now=350 29
+Cur dist=148.385 dist_now=331.421 point_now=478 29
+Cur dist=148.385 dist_now=444.146 point_now=599 32
+Cur dist=148.385 dist_now=69.8355 point_now=113 127
+Dist=69.8355
+
+
+
+size=5
+cur point=174 160
+Cur dist=1.79769e+308 dist_now=147.462 point_now=231 24
+Cur dist=147.462 dist_now=219.401 point_now=350 29
+Cur dist=147.462 dist_now=331.024 point_now=478 29
+Cur dist=147.462 dist_now=443.857 point_now=599 32
+Cur dist=147.462 dist_now=69.3542 point_now=113 127
+Dist=69.3542
+
+
+
+size=5
+cur point=182 147
+Cur dist=1.79769e+308 dist_now=132.401 point_now=231 24
+Cur dist=132.401 dist_now=205.3 point_now=350 29
+Cur dist=132.401 dist_now=318.653 point_now=478 29
+Cur dist=132.401 dist_now=432.567 point_now=599 32
+Cur dist=132.401 dist_now=71.8401 point_now=113 127
+Dist=71.8401
+
+
+
+size=5
+cur point=195 133
+Cur dist=1.79769e+308 dist_now=114.791 point_now=231 24
+Cur dist=114.791 dist_now=186.657 point_now=350 29
+Cur dist=114.791 dist_now=301.505 point_now=478 29
+Cur dist=114.791 dist_now=416.434 point_now=599 32
+Cur dist=114.791 dist_now=82.2192 point_now=113 127
+Dist=82.2192
+
+
+
+size=5
+cur point=239 101
+Cur dist=1.79769e+308 dist_now=77.4145 point_now=231 24
+Cur dist=77.4145 dist_now=132.306 point_now=350 29
+Cur dist=77.4145 dist_now=249.61 point_now=478 29
+Cur dist=77.4145 dist_now=366.553 point_now=599 32
+Cur dist=77.4145 dist_now=128.655 point_now=113 127
+Dist=77.4145
+
+
+
+size=5
+cur point=294 84
+Cur dist=1.79769e+308 dist_now=87 point_now=231 24
+Cur dist=87 dist_now=78.492 point_now=350 29
+Cur dist=78.492 dist_now=192.044 point_now=478 29
+Cur dist=78.492 dist_now=309.401 point_now=599 32
+Cur dist=78.492 dist_now=186.038 point_now=113 127
+Dist=78.492
+
+
+
+size=5
+cur point=343 76
+Cur dist=1.79769e+308 dist_now=123.483 point_now=231 24
+Cur dist=123.483 dist_now=47.5184 point_now=350 29
+Cur dist=47.5184 dist_now=142.948 point_now=478 29
+Cur dist=47.5184 dist_now=259.754 point_now=599 32
+Cur dist=47.5184 dist_now=235.587 point_now=113 127
+Dist=47.5184
+
+
+
+size=5
+cur point=345 75
+Cur dist=1.79769e+308 dist_now=124.888 point_now=231 24
+Cur dist=124.888 dist_now=46.2709 point_now=350 29
+Cur dist=46.2709 dist_now=140.73 point_now=478 29
+Cur dist=46.2709 dist_now=257.614 point_now=599 32
+Cur dist=46.2709 dist_now=237.756 point_now=113 127
+Dist=46.2709
+
+
+
+size=5
+cur point=346 75
+Cur dist=1.79769e+308 dist_now=125.801 point_now=231 24
+Cur dist=125.801 dist_now=46.1736 point_now=350 29
+Cur dist=46.1736 dist_now=139.786 point_now=478 29
+Cur dist=46.1736 dist_now=256.628 point_now=599 32
+Cur dist=46.1736 dist_now=238.732 point_now=113 127
+Dist=46.1736
+
+
+
+size=5
+cur point=406 73
+Cur dist=1.79769e+308 dist_now=181.731 point_now=231 24
+Cur dist=181.731 dist_now=71.218 point_now=350 29
+Cur dist=71.218 dist_now=84.3801 point_now=478 29
+Cur dist=71.218 dist_now=197.307 point_now=599 32
+Cur dist=71.218 dist_now=297.935 point_now=113 127
+Dist=71.218
+
+
+
+size=5
+cur point=590 80
+Cur dist=1.79769e+308 dist_now=363.341 point_now=231 24
+Cur dist=363.341 dist_now=245.359 point_now=350 29
+Cur dist=245.359 dist_now=123.065 point_now=478 29
+Cur dist=123.065 dist_now=48.8365 point_now=599 32
+Cur dist=48.8365 dist_now=479.31 point_now=113 127
+Dist=48.8365
+
+
+
+size=5
+cur point=713 103
+Cur dist=1.79769e+308 dist_now=488.431 point_now=231 24
+Cur dist=488.431 dist_now=370.466 point_now=350 29
+Cur dist=370.466 dist_now=246.376 point_now=478 29
+Cur dist=246.376 dist_now=134.302 point_now=599 32
+Cur dist=134.302 dist_now=600.48 point_now=113 127
+Dist=134.302
+
+
+
+size=5
+cur point=719 106
+Cur dist=1.79769e+308 dist_now=494.841 point_now=231 24
+Cur dist=494.841 dist_now=376.948 point_now=350 29
+Cur dist=376.948 dist_now=253.002 point_now=478 29
+Cur dist=253.002 dist_now=140.982 point_now=599 32
+Cur dist=140.982 dist_now=606.364 point_now=113 127
+Dist=140.982
+
+
+
+size=5
+cur point=716 105
+Cur dist=1.79769e+308 dist_now=491.717 point_now=231 24
+Cur dist=491.717 dist_now=373.807 point_now=350 29
+Cur dist=373.807 dist_now=249.84 point_now=478 29
+Cur dist=249.84 dist_now=137.906 point_now=599 32
+Cur dist=137.906 dist_now=603.401 point_now=113 127
+Dist=137.906
+
+
+
+size=5
+cur point=701 100
+Cur dist=1.79769e+308 dist_now=476.105 point_now=231 24
+Cur dist=476.105 dist_now=358.109 point_now=350 29
+Cur dist=358.109 dist_now=234.03 point_now=478 29
+Cur dist=234.03 dist_now=122.589 point_now=599 32
+Cur dist=122.589 dist_now=588.62 point_now=113 127
+Dist=122.589
+
+
+
+size=5
+cur point=615 77
+Cur dist=1.79769e+308 dist_now=387.64 point_now=231 24
+Cur dist=387.64 dist_now=269.312 point_now=350 29
+Cur dist=269.312 dist_now=145.165 point_now=478 29
+Cur dist=145.165 dist_now=47.7598 point_now=599 32
+Cur dist=47.7598 dist_now=504.484 point_now=113 127
+Dist=47.7598
+
+
+
+size=5
+cur point=513 60
+Cur dist=1.79769e+308 dist_now=284.289 point_now=231 24
+Cur dist=284.289 dist_now=165.922 point_now=350 29
+Cur dist=165.922 dist_now=46.7547 point_now=478 29
+Cur dist=46.7547 dist_now=90.4434 point_now=599 32
+Cur dist=46.7547 dist_now=405.572 point_now=113 127
+Dist=46.7547
+
+
+
+size=5
+cur point=490 58
+Cur dist=1.79769e+308 dist_now=261.222 point_now=231 24
+Cur dist=261.222 dist_now=142.972 point_now=350 29
+Cur dist=142.972 dist_now=31.3847 point_now=478 29
+Cur dist=31.3847 dist_now=112.058 point_now=599 32
+Cur dist=31.3847 dist_now=383.262 point_now=113 127
+Dist=31.3847
+
+
+
+size=5
+cur point=490 58
+Cur dist=1.79769e+308 dist_now=261.222 point_now=231 24
+Cur dist=261.222 dist_now=142.972 point_now=350 29
+Cur dist=142.972 dist_now=31.3847 point_now=478 29
+Cur dist=31.3847 dist_now=112.058 point_now=599 32
+Cur dist=31.3847 dist_now=383.262 point_now=113 127
+Dist=31.3847
+
+
+
+size=5
+cur point=490 57
+Cur dist=1.79769e+308 dist_now=261.094 point_now=231 24
+Cur dist=261.094 dist_now=142.773 point_now=350 29
+Cur dist=142.773 dist_now=30.4631 point_now=478 29
+Cur dist=30.4631 dist_now=111.83 point_now=599 32
+Cur dist=30.4631 dist_now=383.444 point_now=113 127
+Dist=30.4631
+
+
+
+size=5
+cur point=372 368
+Cur dist=1.79769e+308 dist_now=371.775 point_now=231 24
+Cur dist=371.775 dist_now=339.713 point_now=350 29
+Cur dist=339.713 dist_now=355.186 point_now=478 29
+Cur dist=339.713 dist_now=405.494 point_now=599 32
+Cur dist=339.713 dist_now=353.782 point_now=113 127
+Dist=339.713
+
+
+
+size=5
+cur point=434 153
+Cur dist=1.79769e+308 dist_now=240.52 point_now=231 24
+Cur dist=240.52 dist_now=149.773 point_now=350 29
+Cur dist=149.773 dist_now=131.575 point_now=478 29
+Cur dist=131.575 dist_now=204.612 point_now=599 32
+Cur dist=131.575 dist_now=322.051 point_now=113 127
+Dist=131.575
+
+
+
+size=5
+cur point=438 139
+Cur dist=1.79769e+308 dist_now=236.799 point_now=231 24
+Cur dist=236.799 dist_now=140.869 point_now=350 29
+Cur dist=140.869 dist_now=117.047 point_now=478 29
+Cur dist=117.047 dist_now=193.313 point_now=599 32
+Cur dist=117.047 dist_now=325.221 point_now=113 127
+Dist=117.047
+
+
+
+size=5
+cur point=439 127
+Cur dist=1.79769e+308 dist_now=232.106 point_now=231 24
+Cur dist=232.106 dist_now=132.382 point_now=350 29
+Cur dist=132.382 dist_now=105.475 point_now=478 29
+Cur dist=105.475 dist_now=186.078 point_now=599 32
+Cur dist=105.475 dist_now=326 point_now=113 127
+Dist=105.475
+
+
+
+size=5
+cur point=417 121
+Cur dist=1.79769e+308 dist_now=209.774 point_now=231 24
+Cur dist=209.774 dist_now=113.811 point_now=350 29
+Cur dist=113.811 dist_now=110.386 point_now=478 29
+Cur dist=110.386 dist_now=202.596 point_now=599 32
+Cur dist=110.386 dist_now=304.059 point_now=113 127
+Dist=110.386
+
+
+
+size=5
+cur point=342 129
+Cur dist=1.79769e+308 dist_now=152.794 point_now=231 24
+Cur dist=152.794 dist_now=100.319 point_now=350 29
+Cur dist=100.319 dist_now=168.808 point_now=478 29
+Cur dist=100.319 dist_now=274.696 point_now=599 32
+Cur dist=100.319 dist_now=229.009 point_now=113 127
+Dist=100.319
+
+
+
+size=5
+cur point=265 128
+Cur dist=1.79769e+308 dist_now=109.417 point_now=231 24
+Cur dist=109.417 dist_now=130.484 point_now=350 29
+Cur dist=109.417 dist_now=234.883 point_now=478 29
+Cur dist=109.417 dist_now=347.523 point_now=599 32
+Cur dist=109.417 dist_now=152.003 point_now=113 127
+Dist=109.417
+
+
+
+size=5
+cur point=204 123
+Cur dist=1.79769e+308 dist_now=102.616 point_now=231 24
+Cur dist=102.616 dist_now=173.643 point_now=350 29
+Cur dist=102.616 dist_now=289.676 point_now=478 29
+Cur dist=102.616 dist_now=405.347 point_now=599 32
+Cur dist=102.616 dist_now=91.0879 point_now=113 127
+Dist=91.0879
+
+
+
+size=5
+cur point=184 123
+Cur dist=1.79769e+308 dist_now=109.59 point_now=231 24
+Cur dist=109.59 dist_now=190.767 point_now=350 29
+Cur dist=109.59 dist_now=308.662 point_now=478 29
+Cur dist=109.59 dist_now=424.86 point_now=599 32
+Cur dist=109.59 dist_now=71.1126 point_now=113 127
+Dist=71.1126
+
+
+
+size=5
+cur point=176 129
+Cur dist=1.79769e+308 dist_now=118.533 point_now=231 24
+Cur dist=118.533 dist_now=200.689 point_now=350 29
+Cur dist=118.533 dist_now=318.126 point_now=478 29
+Cur dist=118.533 dist_now=433.979 point_now=599 32
+Cur dist=118.533 dist_now=63.0317 point_now=113 127
+Dist=63.0317
+
+
+
+size=5
+cur point=176 129
+Cur dist=1.79769e+308 dist_now=118.533 point_now=231 24
+Cur dist=118.533 dist_now=200.689 point_now=350 29
+Cur dist=118.533 dist_now=318.126 point_now=478 29
+Cur dist=118.533 dist_now=433.979 point_now=599 32
+Cur dist=118.533 dist_now=63.0317 point_now=113 127
+Dist=63.0317
+
+
+
+size=5
+cur point=175 130
+Cur dist=1.79769e+308 dist_now=119.883 point_now=231 24
+Cur dist=119.883 dist_now=202.054 point_now=350 29
+Cur dist=119.883 dist_now=319.39 point_now=478 29
+Cur dist=119.883 dist_now=435.178 point_now=599 32
+Cur dist=119.883 dist_now=62.0725 point_now=113 127
+Dist=62.0725
+
+
+
+size=5
+cur point=183 128
+Cur dist=1.79769e+308 dist_now=114.543 point_now=231 24
+Cur dist=114.543 dist_now=194.139 point_now=350 29
+Cur dist=114.543 dist_now=311.169 point_now=478 29
+Cur dist=114.543 dist_now=426.933 point_now=599 32
+Cur dist=114.543 dist_now=70.0071 point_now=113 127
+Dist=70.0071
+
+
+
+size=5
+cur point=217 114
+Cur dist=1.79769e+308 dist_now=91.0824 point_now=231 24
+Cur dist=91.0824 dist_now=157.842 point_now=350 29
+Cur dist=91.0824 dist_now=274.492 point_now=478 29
+Cur dist=91.0824 dist_now=390.702 point_now=599 32
+Cur dist=91.0824 dist_now=104.809 point_now=113 127
+Dist=91.0824
+
+
+
+size=5
+cur point=257 103
+Cur dist=1.79769e+308 dist_now=83.1685 point_now=231 24
+Cur dist=83.1685 dist_now=118.849 point_now=350 29
+Cur dist=83.1685 dist_now=233.06 point_now=478 29
+Cur dist=83.1685 dist_now=349.292 point_now=599 32
+Cur dist=83.1685 dist_now=145.986 point_now=113 127
+Dist=83.1685
+
+
+
+size=5
+cur point=298 102
+Cur dist=1.79769e+308 dist_now=102.825 point_now=231 24
+Cur dist=102.825 dist_now=89.627 point_now=350 29
+Cur dist=89.627 dist_now=194.24 point_now=478 29
+Cur dist=89.627 dist_now=309.032 point_now=599 32
+Cur dist=89.627 dist_now=186.682 point_now=113 127
+Dist=89.627
+
+
+
+size=5
+cur point=349 102
+Cur dist=1.79769e+308 dist_now=141.45 point_now=231 24
+Cur dist=141.45 dist_now=73.0068 point_now=350 29
+Cur dist=73.0068 dist_now=148.223 point_now=478 29
+Cur dist=73.0068 dist_now=259.615 point_now=599 32
+Cur dist=73.0068 dist_now=237.32 point_now=113 127
+Dist=73.0068
+
+
+
+size=5
+cur point=370 101
+Cur dist=1.79769e+308 dist_now=158.902 point_now=231 24
+Cur dist=158.902 dist_now=74.7262 point_now=350 29
+Cur dist=74.7262 dist_now=129.8 point_now=478 29
+Cur dist=74.7262 dist_now=239.169 point_now=599 32
+Cur dist=74.7262 dist_now=258.312 point_now=113 127
+Dist=74.7262
+
+
+
+size=5
+cur point=412 101
+Cur dist=1.79769e+308 dist_now=196.698 point_now=231 24
+Cur dist=196.698 dist_now=95.0158 point_now=350 29
+Cur dist=95.0158 dist_now=97.6729 point_now=478 29
+Cur dist=95.0158 dist_now=199.324 point_now=599 32
+Cur dist=95.0158 dist_now=300.128 point_now=113 127
+Dist=95.0158
+
+
+
+size=5
+cur point=474 92
+Cur dist=1.79769e+308 dist_now=252.335 point_now=231 24
+Cur dist=252.335 dist_now=139.086 point_now=350 29
+Cur dist=139.086 dist_now=63.1269 point_now=478 29
+Cur dist=63.1269 dist_now=138.654 point_now=599 32
+Cur dist=63.1269 dist_now=362.693 point_now=113 127
+Dist=63.1269
+
+
+
+size=5
+cur point=511 89
+Cur dist=1.79769e+308 dist_now=287.446 point_now=231 24
+Cur dist=287.446 dist_now=171.817 point_now=350 29
+Cur dist=171.817 dist_now=68.4763 point_now=478 29
+Cur dist=68.4763 dist_now=104.848 point_now=599 32
+Cur dist=68.4763 dist_now=399.81 point_now=113 127
+Dist=68.4763
+
+
+
+size=5
+cur point=516 89
+Cur dist=1.79769e+308 dist_now=292.318 point_now=231 24
+Cur dist=292.318 dist_now=176.511 point_now=350 29
+Cur dist=176.511 dist_now=71.0211 point_now=478 29
+Cur dist=71.0211 dist_now=100.688 point_now=599 32
+Cur dist=71.0211 dist_now=404.788 point_now=113 127
+Dist=71.0211
+
+
+
+size=5
+cur point=517 89
+Cur dist=1.79769e+308 dist_now=293.293 point_now=231 24
+Cur dist=293.293 dist_now=177.451 point_now=350 29
+Cur dist=177.451 dist_now=71.5612 point_now=478 29
+Cur dist=71.5612 dist_now=99.8649 point_now=599 32
+Cur dist=71.5612 dist_now=405.783 point_now=113 127
+Dist=71.5612
+
+
+
+size=5
+cur point=525 88
+Cur dist=1.79769e+308 dist_now=300.885 point_now=231 24
+Cur dist=300.885 dist_now=184.678 point_now=350 29
+Cur dist=184.678 dist_now=75.4321 point_now=478 29
+Cur dist=75.4321 dist_now=92.8009 point_now=599 32
+Cur dist=75.4321 dist_now=413.842 point_now=113 127
+Dist=75.4321
+
+
+
+size=5
+cur point=538 86
+Cur dist=1.79769e+308 dist_now=313.198 point_now=231 24
+Cur dist=313.198 dist_now=196.451 point_now=350 29
+Cur dist=196.451 dist_now=82.7587 point_now=478 29
+Cur dist=82.7587 dist_now=81.4678 point_now=599 32
+Cur dist=81.4678 dist_now=426.973 point_now=113 127
+Dist=81.4678
+
+
+
+size=5
+cur point=579 83
+Cur dist=1.79769e+308 dist_now=352.966 point_now=231 24
+Cur dist=352.966 dist_now=235.281 point_now=350 29
+Cur dist=235.281 dist_now=114.529 point_now=478 29
+Cur dist=114.529 dist_now=54.7814 point_now=599 32
+Cur dist=54.7814 dist_now=468.073 point_now=113 127
+Dist=54.7814
+
+
+
+size=5
+cur point=591 82
+Cur dist=1.79769e+308 dist_now=364.642 point_now=231 24
+Cur dist=364.642 dist_now=246.759 point_now=350 29
+Cur dist=246.759 dist_now=124.812 point_now=478 29
+Cur dist=124.812 dist_now=50.636 point_now=599 32
+Cur dist=50.636 dist_now=480.114 point_now=113 127
+Dist=50.636
+
+
+
+size=5
+cur point=590 82
+Cur dist=1.79769e+308 dist_now=363.655 point_now=231 24
+Cur dist=363.655 dist_now=245.782 point_now=350 29
+Cur dist=245.782 dist_now=123.907 point_now=478 29
+Cur dist=123.907 dist_now=50.8035 point_now=599 32
+Cur dist=50.8035 dist_now=479.118 point_now=113 127
+Dist=50.8035
+
+
+
+size=5
+cur point=555 79
+Cur dist=1.79769e+308 dist_now=328.635 point_now=231 24
+Cur dist=328.635 dist_now=211.009 point_now=350 29
+Cur dist=211.009 dist_now=91.8096 point_now=478 29
+Cur dist=91.8096 dist_now=64.3817 point_now=599 32
+Cur dist=64.3817 dist_now=444.599 point_now=113 127
+Dist=64.3817
+
+
+
+size=5
+cur point=497 75
+Cur dist=1.79769e+308 dist_now=270.845 point_now=231 24
+Cur dist=270.845 dist_now=154.029 point_now=350 29
+Cur dist=154.029 dist_now=49.7695 point_now=478 29
+Cur dist=49.7695 dist_now=110.693 point_now=599 32
+Cur dist=49.7695 dist_now=387.505 point_now=113 127
+Dist=49.7695
+
+
+
+size=5
+cur point=493 75
+Cur dist=1.79769e+308 dist_now=266.918 point_now=231 24
+Cur dist=266.918 dist_now=150.217 point_now=350 29
+Cur dist=150.217 dist_now=48.3839 point_now=478 29
+Cur dist=48.3839 dist_now=114.39 point_now=599 32
+Cur dist=48.3839 dist_now=383.541 point_now=113 127
+Dist=48.3839
+
+
+
+size=5
+cur point=492 75
+Cur dist=1.79769e+308 dist_now=265.936 point_now=231 24
+Cur dist=265.936 dist_now=149.265 point_now=350 29
+Cur dist=149.265 dist_now=48.0833 point_now=478 29
+Cur dist=48.0833 dist_now=115.317 point_now=599 32
+Cur dist=48.0833 dist_now=382.551 point_now=113 127
+Dist=48.0833
+
+
+
+size=5
+cur point=438 73
+Cur dist=1.79769e+308 dist_now=212.72 point_now=231 24
+Cur dist=212.72 dist_now=98.387 point_now=350 29
+Cur dist=98.387 dist_now=59.4643 point_now=478 29
+Cur dist=59.4643 dist_now=166.138 point_now=599 32
+Cur dist=59.4643 dist_now=329.456 point_now=113 127
+Dist=59.4643
+
+
+
+size=5
+cur point=410 69
+Cur dist=1.79769e+308 dist_now=184.57 point_now=231 24
+Cur dist=184.57 dist_now=72.111 point_now=350 29
+Cur dist=72.111 dist_now=78.8923 point_now=478 29
+Cur dist=72.111 dist_now=192.588 point_now=599 32
+Cur dist=72.111 dist_now=302.61 point_now=113 127
+Dist=72.111
+
+
+
+size=5
+cur point=407 68
+Cur dist=1.79769e+308 dist_now=181.417 point_now=231 24
+Cur dist=181.417 dist_now=69.0652 point_now=350 29
+Cur dist=69.0652 dist_now=81.0062 point_now=478 29
+Cur dist=69.0652 dist_now=195.346 point_now=599 32
+Cur dist=69.0652 dist_now=299.862 point_now=113 127
+Dist=69.0652
+
+
+
+size=5
+cur point=406 68
+Cur dist=1.79769e+308 dist_now=180.447 point_now=231 24
+Cur dist=180.447 dist_now=68.2422 point_now=350 29
+Cur dist=68.2422 dist_now=81.8841 point_now=478 29
+Cur dist=68.2422 dist_now=196.329 point_now=599 32
+Cur dist=68.2422 dist_now=298.881 point_now=113 127
+Dist=68.2422
+
+
+
+size=5
+cur point=347 56
+Cur dist=1.79769e+308 dist_now=120.333 point_now=231 24
+Cur dist=120.333 dist_now=27.1662 point_now=350 29
+Cur dist=27.1662 dist_now=133.754 point_now=478 29
+Cur dist=27.1662 dist_now=253.14 point_now=599 32
+Cur dist=27.1662 dist_now=244.534 point_now=113 127
+Dist=27.1662
+
+
+
+size=5
+cur point=251 44
+Cur dist=1.79769e+308 dist_now=28.2843 point_now=231 24
+Cur dist=28.2843 dist_now=100.13 point_now=350 29
+Cur dist=28.2843 dist_now=227.495 point_now=478 29
+Cur dist=28.2843 dist_now=348.207 point_now=599 32
+Cur dist=28.2843 dist_now=161.037 point_now=113 127
+Dist=28.2843
+
+
+
+size=5
+cur point=250 44
+Cur dist=1.79769e+308 dist_now=27.5862 point_now=231 24
+Cur dist=27.5862 dist_now=101.119 point_now=350 29
+Cur dist=27.5862 dist_now=228.493 point_now=478 29
+Cur dist=27.5862 dist_now=349.206 point_now=599 32
+Cur dist=27.5862 dist_now=160.181 point_now=113 127
+Dist=27.5862
+
+
+
+size=5
+cur point=249 44
+Cur dist=1.79769e+308 dist_now=26.9072 point_now=231 24
+Cur dist=26.9072 dist_now=102.108 point_now=350 29
+Cur dist=26.9072 dist_now=229.491 point_now=478 29
+Cur dist=26.9072 dist_now=350.206 point_now=599 32
+Cur dist=26.9072 dist_now=159.327 point_now=113 127
+Dist=26.9072
+
+
+
+size=5
+cur point=318 41
+Cur dist=1.79769e+308 dist_now=88.6454 point_now=231 24
+Cur dist=88.6454 dist_now=34.176 point_now=350 29
+Cur dist=34.176 dist_now=160.449 point_now=478 29
+Cur dist=34.176 dist_now=281.144 point_now=599 32
+Cur dist=34.176 dist_now=222.308 point_now=113 127
+Dist=34.176
+
+
+
+size=5
+cur point=425 41
+Cur dist=1.79769e+308 dist_now=194.743 point_now=231 24
+Cur dist=194.743 dist_now=75.9539 point_now=350 29
+Cur dist=75.9539 dist_now=54.3415 point_now=478 29
+Cur dist=54.3415 dist_now=174.233 point_now=599 32
+Cur dist=54.3415 dist_now=323.636 point_now=113 127
+Dist=54.3415
+
+
+
+size=5
+cur point=513 38
+Cur dist=1.79769e+308 dist_now=282.347 point_now=231 24
+Cur dist=282.347 dist_now=163.248 point_now=350 29
+Cur dist=163.248 dist_now=36.1386 point_now=478 29
+Cur dist=36.1386 dist_now=86.209 point_now=599 32
+Cur dist=36.1386 dist_now=409.782 point_now=113 127
+Dist=36.1386
+
+
+
+size=5
+cur point=535 36
+Cur dist=1.79769e+308 dist_now=304.237 point_now=231 24
+Cur dist=304.237 dist_now=185.132 point_now=350 29
+Cur dist=185.132 dist_now=57.4282 point_now=478 29
+Cur dist=57.4282 dist_now=64.1249 point_now=599 32
+Cur dist=57.4282 dist_now=431.7 point_now=113 127
+Dist=57.4282
+
+
+
+size=5
+cur point=555 36
+Cur dist=1.79769e+308 dist_now=324.222 point_now=231 24
+Cur dist=324.222 dist_now=205.119 point_now=350 29
+Cur dist=205.119 dist_now=77.3175 point_now=478 29
+Cur dist=77.3175 dist_now=44.1814 point_now=599 32
+Cur dist=44.1814 dist_now=451.27 point_now=113 127
+Dist=44.1814
+
+
+
+size=5
+cur point=563 36
+Cur dist=1.79769e+308 dist_now=332.217 point_now=231 24
+Cur dist=332.217 dist_now=213.115 point_now=350 29
+Cur dist=213.115 dist_now=85.2877 point_now=478 29
+Cur dist=85.2877 dist_now=36.2215 point_now=599 32
+Cur dist=36.2215 dist_now=459.109 point_now=113 127
+Dist=36.2215
+
+
+
+size=5
+cur point=563 35
+Cur dist=1.79769e+308 dist_now=332.182 point_now=231 24
+Cur dist=332.182 dist_now=213.084 point_now=350 29
+Cur dist=213.084 dist_now=85.2115 point_now=478 29
+Cur dist=85.2115 dist_now=36.1248 point_now=599 32
+Cur dist=36.1248 dist_now=459.308 point_now=113 127
+Dist=36.1248
+
+
+
+size=5
+cur point=564 32
+Cur dist=1.79769e+308 dist_now=333.096 point_now=231 24
+Cur dist=333.096 dist_now=214.021 point_now=350 29
+Cur dist=214.021 dist_now=86.0523 point_now=478 29
+Cur dist=86.0523 dist_now=35 point_now=599 32
+Cur dist=35 dist_now=460.897 point_now=113 127
+Dist=35
+
+
+
+size=5
+cur point=563 7
+Cur dist=1.79769e+308 dist_now=332.435 point_now=231 24
+Cur dist=332.435 dist_now=214.133 point_now=350 29
+Cur dist=214.133 dist_now=87.8009 point_now=478 29
+Cur dist=87.8009 dist_now=43.8292 point_now=599 32
+Cur dist=43.8292 dist_now=465.725 point_now=113 127
+Dist=43.8292
