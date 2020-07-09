@@ -28,6 +28,8 @@ public:
 
 	void ClearCanvas();
 
+	bool CanDrawNewFrame = true;
+
 private:
 
 	Canvas();

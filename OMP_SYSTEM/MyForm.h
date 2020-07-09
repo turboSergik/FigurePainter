@@ -46,6 +46,8 @@ namespace OMPSYSTEM {
 				delete components;
 			}
 		}
+	private: System::ComponentModel::IContainer^ components;
+	protected:
 
 	protected:
 
@@ -57,7 +59,7 @@ namespace OMPSYSTEM {
 		/// <summary>
 		/// Обязательная переменная конструктора.
 		/// </summary>
-		System::ComponentModel::Container^ components;
+
 	private: System::Windows::Forms::RadioButton^ radioButtonCircle;
 
 	private: System::Windows::Forms::RadioButton^ radioButtonSquare;
@@ -86,6 +88,7 @@ namespace OMPSYSTEM {
 	private: System::Windows::Forms::Button^ button_load;
 	private: System::Windows::Forms::Button^ button_save;
 	private: System::Windows::Forms::Button^ button_clear;
+	private: System::Windows::Forms::Timer^ timer1;
 
 		   Canvas* canvas;
 
@@ -96,6 +99,7 @@ namespace OMPSYSTEM {
 		   /// </summary>
 		   void InitializeComponent(void)
 		   {
+			   this->components = (gcnew System::ComponentModel::Container());
 			   this->radioButtonCircle = (gcnew System::Windows::Forms::RadioButton());
 			   this->radioButtonSquare = (gcnew System::Windows::Forms::RadioButton());
 			   this->radioButtonTriangle = (gcnew System::Windows::Forms::RadioButton());
@@ -104,6 +108,7 @@ namespace OMPSYSTEM {
 			   this->button_load = (gcnew System::Windows::Forms::Button());
 			   this->button_save = (gcnew System::Windows::Forms::Button());
 			   this->button_clear = (gcnew System::Windows::Forms::Button());
+			   this->timer1 = (gcnew System::Windows::Forms::Timer(this->components));
 			   this->SuspendLayout();
 			   // 
 			   // radioButtonCircle
@@ -196,10 +201,17 @@ namespace OMPSYSTEM {
 			   this->button_clear->UseVisualStyleBackColor = true;
 			   this->button_clear->Click += gcnew System::EventHandler(this, &MyForm::button_clear_Click);
 			   // 
+			   // timer1
+			   // 
+			   this->timer1->Enabled = true;
+			   this->timer1->Interval = 1;
+			   this->timer1->Tick += gcnew System::EventHandler(this, &MyForm::timer1_Tick);
+			   // 
 			   // MyForm
 			   // 
 			   this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			   this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
+			   this->AutoScroll = true;
 			   this->BackColor = System::Drawing::Color::White;
 			   this->ClientSize = System::Drawing::Size(1062, 467);
 			   this->Controls->Add(this->button_clear);
@@ -212,8 +224,10 @@ namespace OMPSYSTEM {
 			   this->Controls->Add(this->radioButtonCircle);
 			   this->ForeColor = System::Drawing::SystemColors::ControlText;
 			   this->Name = L"MyForm";
+			   this->RightToLeft = System::Windows::Forms::RightToLeft::Yes;
 			   this->Text = L"MyForm";
 			   this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
+			   this->Paint += gcnew System::Windows::Forms::PaintEventHandler(this, &MyForm::MyForm_Paint);
 			   this->MouseDown += gcnew System::Windows::Forms::MouseEventHandler(this, &MyForm::MyForm_MouseDown);
 			   this->MouseMove += gcnew System::Windows::Forms::MouseEventHandler(this, &MyForm::MyForm_MouseMove);
 			   this->MouseUp += gcnew System::Windows::Forms::MouseEventHandler(this, &MyForm::MyForm_MouseUp);
@@ -225,8 +239,11 @@ namespace OMPSYSTEM {
 
 	private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
 
+		this->AutoSizeMode = System::Windows::Forms::AutoSizeMode::GrowAndShrink;
+
 		MyGraphics = this->CreateGraphics();
 		this->radioButtonCircle->Select();
+		this->DoubleBuffered = true;
 
 		canvas = Canvas::GetInstance();
 	}
@@ -236,6 +253,7 @@ namespace OMPSYSTEM {
 	}
 	private: System::Void radioButtonTriangle_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Triangle;
+		canvas->UpdateCanvas(MyGraphics);
 	}
 	private: System::Void radioButtonSquare_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Square;
@@ -262,21 +280,18 @@ namespace OMPSYSTEM {
 		case ApplicationData::Action::Circle:
 
 			canvas->CreateObject(Figure::Type::Circle, Color::Black, cp);
-			canvas->UpdateCanvas(MyGraphics);
 
 			break;
 
 		case ApplicationData::Action::Triangle:
 
 			canvas->CreateObject(Figure::Type::Triangle, Color::Black, cp);
-			canvas->UpdateCanvas(MyGraphics);
 
 			break;
 
 		case ApplicationData::Action::Square:
 
 			canvas->CreateObject(Figure::Type::Square, Color::Black, cp);
-			canvas->UpdateCanvas(MyGraphics);
 
 			break;
 
@@ -296,12 +311,7 @@ namespace OMPSYSTEM {
 				// create Line
 				FigurePtr object;
 
-				// object = canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSeconfPointOfLine);
 				canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSeconfPointOfLine);
-				canvas->UpdateCanvas(MyGraphics);
-
-				// canvas->GetObjectPointer(firstPointOfLine)->AddLine(std::static_pointer_cast<Line>(object));
-				// canvas->GetObjectPointer(tempSeconfPointOfLine)->AddLine(std::static_pointer_cast<Line>(object));
 
 				countClicksOfLine = 0;
 			}
@@ -328,13 +338,8 @@ namespace OMPSYSTEM {
 			pos.X -= len / 2;
 			pos.Y -= len / 2;
 
-			canvas->ClearRenderLines(MyGraphics);
-
-			objectToMove->Draw(MyGraphics, Color::White);
 			objectToMove->SetPosition(pos);
-
-			canvas->UpdateCanvas(MyGraphics);
-
+			// canvas->ClearRenderLines(MyGraphics);
 		}
 
 		if (curAction == ApplicationData::Action::Line && countClicksOfLine == 1) {
@@ -343,8 +348,6 @@ namespace OMPSYSTEM {
 
 			tempSeconfPointOfLine = canvas->TakeClosestCenter(e->Location);
 			MyGraphics->DrawLine(gcnew Pen(Color::Black), firstPointOfLine, tempSeconfPointOfLine);
-
-			canvas->UpdateCanvas(MyGraphics);
 		}
 	}
 	private: System::Void MyForm_MouseUp(System::Object^ sender, System::Windows::Forms::MouseEventArgs^ e) {
@@ -377,13 +380,18 @@ namespace OMPSYSTEM {
 		std::string fileNameStdString = context.marshal_as<std::string>(fileName);
 
 		canvas->LoadDataFromFile(fileNameStdString);
-		canvas->UpdateCanvas(MyGraphics);
 	}
 
 	private: System::Void button_clear_Click(System::Object^ sender, System::EventArgs^ e) {
 		canvas->ClearCanvas();
-		canvas->UpdateCanvas(MyGraphics);
 	}
 
+	private: System::Void MyForm_Paint(System::Object^ sender, System::Windows::Forms::PaintEventArgs^ e) {
+		canvas->UpdateCanvas(e->Graphics);
+		// Sleep(50);
+	}
+	private: System::Void timer1_Tick(System::Object^ sender, System::EventArgs^ e) {
+		this->Invalidate();
+	}
 };
 }
