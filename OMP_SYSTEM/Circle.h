@@ -11,7 +11,7 @@ public:
 	explicit Circle(const Type type);
 	virtual ~Circle();
 
-	void Draw(System::Drawing::Graphics^ graphics) override;
+	void Draw(System::Drawing::Graphics^ graphics, Color color = Color::Black) override;
 
 	System::Drawing::Point GetCenter() override;
 

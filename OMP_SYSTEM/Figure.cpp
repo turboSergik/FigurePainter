@@ -50,7 +50,7 @@ void Figure::AddLine(LinePtr line)
 	else this->_vectorOfLines.push_back({ line, 1 });
 }
 
-void Figure::Draw(System::Drawing::Graphics^ graphics)
+void Figure::Draw(System::Drawing::Graphics^ graphics, Color color)
 {
 }
 

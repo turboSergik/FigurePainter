@@ -11,7 +11,7 @@ public:
 	explicit Triangle(const Type type);
 	virtual ~Triangle();
 
-	void Draw(System::Drawing::Graphics^ graphics) override;
+	void Draw(System::Drawing::Graphics^ graphics, Color color = Color::Black) override;
 
 	System::Drawing::Point GetCenter() override;
 

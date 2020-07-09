@@ -11,7 +11,7 @@ Triangle::~Triangle()
 }
 
 
-void Triangle::Draw(System::Drawing::Graphics^ graphics)
+void Triangle::Draw(System::Drawing::Graphics^ graphics, Color color)
 {
 	Point centerPoint = _position;
 
@@ -22,9 +22,9 @@ void Triangle::Draw(System::Drawing::Graphics^ graphics)
 	Point a2(centerPoint.X - len / 2, centerPoint.Y + len / 2);
 	Point a3(centerPoint.X + len / 2, centerPoint.Y + len / 2);
 	
-	graphics->DrawLine(gcnew System::Drawing::Pen(System::Drawing::Color::Black), a1, a2);
-	graphics->DrawLine(gcnew System::Drawing::Pen(System::Drawing::Color::Black), a1, a3);
-	graphics->DrawLine(gcnew System::Drawing::Pen(System::Drawing::Color::Black), a2, a3);
+	graphics->DrawLine(gcnew System::Drawing::Pen(color), a1, a2);
+	graphics->DrawLine(gcnew System::Drawing::Pen(color), a1, a3);
+	graphics->DrawLine(gcnew System::Drawing::Pen(color), a2, a3);
 
 }
 

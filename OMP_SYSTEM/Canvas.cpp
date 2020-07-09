@@ -97,15 +97,20 @@ FigurePtr Canvas::CreateObject(const Figure::Type type, const Color color, const
 
 void Canvas::UpdateCanvas(System::Drawing::Graphics^ graphics)
 {
-	graphics->Clear(System::Drawing::Color::White);
-
 	for (const auto& object : _objects)
 	{
-		object->Draw(graphics);
+		object->Draw(graphics, Color::Black);
 	}
 
 	Sleep(50);
+}
 
+void Canvas::ClearRenderLines(System::Drawing::Graphics^ graphics)
+{
+	for (const auto& object : _objects) if (object->GetType() == Figure::Type::Line)
+	{
+		object->Draw(graphics, Color::White);
+	}
 }
 
 std::shared_ptr<Figure> Canvas::GetObjectPointer(Point point)

@@ -11,9 +11,9 @@ Circle::~Circle()
 }
 
 
-void Circle::Draw(System::Drawing::Graphics^ graphics)
+void Circle::Draw(System::Drawing::Graphics^ graphics, Color color)
 {
-	graphics->DrawEllipse(gcnew System::Drawing::Pen(System::Drawing::Color::Black), this->GetCenter().X, this->GetCenter().Y, len, len);
+	graphics->DrawEllipse(gcnew System::Drawing::Pen(color), this->GetCenter().X, this->GetCenter().Y, len, len);
 }
 
 Point Circle::GetCenter()

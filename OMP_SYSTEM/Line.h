@@ -11,7 +11,7 @@ public:
 	explicit Line(const Type type);
 	virtual ~Line();
 
-	void Draw(System::Drawing::Graphics^ graphics) override;
+	void Draw(System::Drawing::Graphics^ graphics, Color color = Color::Black) override;
 
 	System::Drawing::Point GetCenter() override;
 

@@ -10,10 +10,11 @@ Line::~Line()
 }
 
 
-void Line::Draw(System::Drawing::Graphics^ graphics)
+void Line::Draw(System::Drawing::Graphics^ graphics, Color color)
 {
-	graphics->DrawLine(gcnew System::Drawing::Pen(System::Drawing::Color::Black), _position, _position2);
+	graphics->DrawLine(gcnew System::Drawing::Pen(color), _position, _position2);
 }
+
 
 Point Line::GetCenter()
 {

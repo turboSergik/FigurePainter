@@ -28,7 +28,8 @@ public:
 
 	void AddLine(LinePtr line);
 
-	virtual void Draw(System::Drawing::Graphics^ graphics);
+	virtual void Draw(System::Drawing::Graphics^ graphics, Color color = Color::Black);
+
 	virtual System::Drawing::Point GetCenter();
 
 protected:

@@ -239,9 +239,6 @@ namespace OMPSYSTEM {
 	}
 	private: System::Void radioButtonSquare_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Square;
-
-		/// just for test
-		canvas->LoadDataFromFile("test2.txt");
 	}
 	private: System::Void radioButtonLine_CheckedChanged(System::Object^ sender, System::EventArgs^ se) {
 		curAction = ApplicationData::Action::Line;
@@ -331,22 +328,23 @@ namespace OMPSYSTEM {
 			pos.X -= len / 2;
 			pos.Y -= len / 2;
 
+			canvas->ClearRenderLines(MyGraphics);
+
+			objectToMove->Draw(MyGraphics, Color::White);
 			objectToMove->SetPosition(pos);
+
 			canvas->UpdateCanvas(MyGraphics);
 
 		}
 
 		if (curAction == ApplicationData::Action::Line && countClicksOfLine == 1) {
 
-			if (rand() % 4 != 0) return;
-			/// Mega super fast optimization
-
-			canvas->UpdateCanvas(MyGraphics);
+			MyGraphics->DrawLine(gcnew Pen(Color::White), firstPointOfLine, tempSeconfPointOfLine);
 
 			tempSeconfPointOfLine = canvas->TakeClosestCenter(e->Location);
-
 			MyGraphics->DrawLine(gcnew Pen(Color::Black), firstPointOfLine, tempSeconfPointOfLine);
 
+			canvas->UpdateCanvas(MyGraphics);
 		}
 	}
 	private: System::Void MyForm_MouseUp(System::Object^ sender, System::Windows::Forms::MouseEventArgs^ e) {
