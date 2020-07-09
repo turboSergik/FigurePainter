@@ -71,26 +71,26 @@ namespace OMPSYSTEM {
 
 	private: System::Windows::Forms::RadioButton^ radioButtonLine;
 
-		   const int lenDataForFigures = 50;
-
-		   Graphics^ MyGraphics;
 		   ApplicationData::Action curAction;
 
 		   Point firstPointOfLine;
-		   Point tempSeconfPointOfLine;
-
-		   int countClicksOfLine = 0;
+		   Point tempSecondPointOfLine;
 
 		   bool canMove = false;
+
 		   Point pointMove;
+
+		   Canvas* canvas;
 
 	private: System::Windows::Forms::RadioButton^ radioButtonMove;
 	private: System::Windows::Forms::Button^ button_load;
 	private: System::Windows::Forms::Button^ button_save;
 	private: System::Windows::Forms::Button^ button_clear;
-	private: System::Windows::Forms::Timer^ timer1;
+	private: System::Windows::Forms::Timer^ render_timer;
 
-		   Canvas* canvas;
+
+
+
 
 #pragma region Windows Form Designer generated code
 		   /// <summary>
@@ -108,7 +108,7 @@ namespace OMPSYSTEM {
 			   this->button_load = (gcnew System::Windows::Forms::Button());
 			   this->button_save = (gcnew System::Windows::Forms::Button());
 			   this->button_clear = (gcnew System::Windows::Forms::Button());
-			   this->timer1 = (gcnew System::Windows::Forms::Timer(this->components));
+			   this->render_timer = (gcnew System::Windows::Forms::Timer(this->components));
 			   this->SuspendLayout();
 			   // 
 			   // radioButtonCircle
@@ -201,11 +201,11 @@ namespace OMPSYSTEM {
 			   this->button_clear->UseVisualStyleBackColor = true;
 			   this->button_clear->Click += gcnew System::EventHandler(this, &MyForm::button_clear_Click);
 			   // 
-			   // timer1
+			   // render_timer
 			   // 
-			   this->timer1->Enabled = true;
-			   this->timer1->Interval = 1;
-			   this->timer1->Tick += gcnew System::EventHandler(this, &MyForm::timer1_Tick);
+			   this->render_timer->Enabled = true;
+			   this->render_timer->Interval = 1;
+			   this->render_timer->Tick += gcnew System::EventHandler(this, &MyForm::render_timer_Tick);
 			   // 
 			   // MyForm
 			   // 
@@ -241,7 +241,6 @@ namespace OMPSYSTEM {
 
 		this->AutoSizeMode = System::Windows::Forms::AutoSizeMode::GrowAndShrink;
 
-		MyGraphics = this->CreateGraphics();
 		this->radioButtonCircle->Select();
 		this->DoubleBuffered = true;
 
@@ -253,7 +252,6 @@ namespace OMPSYSTEM {
 	}
 	private: System::Void radioButtonTriangle_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Triangle;
-		canvas->UpdateCanvas(MyGraphics);
 	}
 	private: System::Void radioButtonSquare_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Square;
@@ -271,9 +269,11 @@ namespace OMPSYSTEM {
 		Point cp;
 		cp = e->Location;
 
-		cp.X -= lenDataForFigures / 2;
-		cp.Y -= lenDataForFigures / 2;
+		cp.X -= len / 2;
+		cp.Y -= len / 2;
 		/// Render figure in the Center of mouse, not in upper left corner
+
+		FigurePtr object;
 
 		switch (curAction)
 		{
@@ -297,24 +297,17 @@ namespace OMPSYSTEM {
 
 		case ApplicationData::Action::Line:
 
-			if (countClicksOfLine == 0) {
+			firstPointOfLine = canvas->TakeClosestCenter(e->Location);
+			tempSecondPointOfLine = e->Location;
 
-				firstPointOfLine = canvas->TakeClosestCenter(e->Location);
-				tempSeconfPointOfLine = e->Location;
+			curAction = ApplicationData::Action::LineSecondPoint;
+			
+			break;
 
-				countClicksOfLine = 1;
+		case ApplicationData::Action::LineSecondPoint:
 
-				MyGraphics->DrawLine(gcnew Pen(Color::Black), firstPointOfLine, tempSeconfPointOfLine);
-			}
-			else if (countClicksOfLine == 1) {
-
-				// create Line
-				FigurePtr object;
-
-				canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSeconfPointOfLine);
-
-				countClicksOfLine = 0;
-			}
+			canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSecondPointOfLine);
+			curAction = ApplicationData::Action::Line;
 
 			break;
 
@@ -339,15 +332,15 @@ namespace OMPSYSTEM {
 			pos.Y -= len / 2;
 
 			objectToMove->SetPosition(pos);
-			// canvas->ClearRenderLines(MyGraphics);
 		}
 
-		if (curAction == ApplicationData::Action::Line && countClicksOfLine == 1) {
+		if (curAction == ApplicationData::Action::LineSecondPoint) {
 
-			MyGraphics->DrawLine(gcnew Pen(Color::White), firstPointOfLine, tempSeconfPointOfLine);
+			auto ClosestCenter = canvas->TakeClosestCenter(e->Location);
 
-			tempSeconfPointOfLine = canvas->TakeClosestCenter(e->Location);
-			MyGraphics->DrawLine(gcnew Pen(Color::Black), firstPointOfLine, tempSeconfPointOfLine);
+			if (ClosestCenter.X == tempSecondPointOfLine.X && ClosestCenter.Y == ClosestCenter.Y) return;
+
+			tempSecondPointOfLine = ClosestCenter;
 		}
 	}
 	private: System::Void MyForm_MouseUp(System::Object^ sender, System::Windows::Forms::MouseEventArgs^ e) {
@@ -387,10 +380,12 @@ namespace OMPSYSTEM {
 	}
 
 	private: System::Void MyForm_Paint(System::Object^ sender, System::Windows::Forms::PaintEventArgs^ e) {
+		
 		canvas->UpdateCanvas(e->Graphics);
-		// Sleep(50);
+		if (curAction == ApplicationData::Action::LineSecondPoint) e->Graphics->DrawLine(gcnew Pen(Color::Black), firstPointOfLine, tempSecondPointOfLine);
 	}
-	private: System::Void timer1_Tick(System::Object^ sender, System::EventArgs^ e) {
+
+	private: System::Void render_timer_Tick(System::Object^ sender, System::EventArgs^ e) {
 		this->Invalidate();
 	}
 };

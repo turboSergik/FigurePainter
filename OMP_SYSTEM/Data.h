@@ -7,7 +7,9 @@ namespace ApplicationData
 		Circle,
 		Square,
 		Triangle,
+
 		Line,
+		LineSecondPoint,
 
 		Move,
 	};
