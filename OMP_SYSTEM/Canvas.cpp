@@ -96,13 +96,15 @@ FigurePtr Canvas::CreateObject(const Figure::Type type, const Color color, const
 }
 
 void Canvas::UpdateCanvas(System::Drawing::Graphics^ graphics)
-{
+{	
+
+	graphics->Clear(Color::White);
+
 	for (const auto& object : _objects)
 	{
 		object->Draw(graphics, Color::Black);
 	}
-
-	Sleep(50);
+	// Sleep(100);
 }
 
 void Canvas::ClearRenderLines(System::Drawing::Graphics^ graphics)
