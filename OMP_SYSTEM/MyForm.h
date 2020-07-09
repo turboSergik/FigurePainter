@@ -8,6 +8,8 @@
 #include "Line.h"
 #include "Figure.h"
 
+#include <msclr\marshal_cppstd.h>
+
 FigurePtr objectToMove;
 
 namespace OMPSYSTEM {
@@ -81,6 +83,9 @@ namespace OMPSYSTEM {
 		   Point pointMove;
 
 	private: System::Windows::Forms::RadioButton^ radioButtonMove;
+	private: System::Windows::Forms::Button^ button_load;
+	private: System::Windows::Forms::Button^ button_save;
+	private: System::Windows::Forms::Button^ button_clear;
 
 		   Canvas* canvas;
 
@@ -96,6 +101,9 @@ namespace OMPSYSTEM {
 			   this->radioButtonTriangle = (gcnew System::Windows::Forms::RadioButton());
 			   this->radioButtonLine = (gcnew System::Windows::Forms::RadioButton());
 			   this->radioButtonMove = (gcnew System::Windows::Forms::RadioButton());
+			   this->button_load = (gcnew System::Windows::Forms::Button());
+			   this->button_save = (gcnew System::Windows::Forms::Button());
+			   this->button_clear = (gcnew System::Windows::Forms::Button());
 			   this->SuspendLayout();
 			   // 
 			   // radioButtonCircle
@@ -158,12 +166,45 @@ namespace OMPSYSTEM {
 			   this->radioButtonMove->UseVisualStyleBackColor = true;
 			   this->radioButtonMove->CheckedChanged += gcnew System::EventHandler(this, &MyForm::radioButtonMove_CheckedChanged);
 			   // 
+			   // button_load
+			   // 
+			   this->button_load->Location = System::Drawing::Point(964, 27);
+			   this->button_load->Name = L"button_load";
+			   this->button_load->Size = System::Drawing::Size(54, 26);
+			   this->button_load->TabIndex = 8;
+			   this->button_load->Text = L"Load";
+			   this->button_load->UseVisualStyleBackColor = true;
+			   this->button_load->Click += gcnew System::EventHandler(this, &MyForm::button_load_Click);
+			   // 
+			   // button_save
+			   // 
+			   this->button_save->Location = System::Drawing::Point(904, 27);
+			   this->button_save->Name = L"button_save";
+			   this->button_save->Size = System::Drawing::Size(54, 26);
+			   this->button_save->TabIndex = 9;
+			   this->button_save->Text = L"Save";
+			   this->button_save->UseVisualStyleBackColor = true;
+			   this->button_save->Click += gcnew System::EventHandler(this, &MyForm::button_save_Click);
+			   // 
+			   // button_clear
+			   // 
+			   this->button_clear->Location = System::Drawing::Point(964, 59);
+			   this->button_clear->Name = L"button_clear";
+			   this->button_clear->Size = System::Drawing::Size(54, 26);
+			   this->button_clear->TabIndex = 10;
+			   this->button_clear->Text = L"Clear";
+			   this->button_clear->UseVisualStyleBackColor = true;
+			   this->button_clear->Click += gcnew System::EventHandler(this, &MyForm::button_clear_Click);
+			   // 
 			   // MyForm
 			   // 
 			   this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			   this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			   this->BackColor = System::Drawing::Color::White;
 			   this->ClientSize = System::Drawing::Size(1062, 467);
+			   this->Controls->Add(this->button_clear);
+			   this->Controls->Add(this->button_save);
+			   this->Controls->Add(this->button_load);
 			   this->Controls->Add(this->radioButtonMove);
 			   this->Controls->Add(this->radioButtonLine);
 			   this->Controls->Add(this->radioButtonTriangle);
@@ -200,9 +241,9 @@ namespace OMPSYSTEM {
 		curAction = ApplicationData::Action::Square;
 
 		/// just for test
-		canvas->SaveDataInFile("kek.txt");
+		canvas->LoadDataFromFile("test2.txt");
 	}
-	private: System::Void radioButtonLine_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
+	private: System::Void radioButtonLine_CheckedChanged(System::Object^ sender, System::EventArgs^ se) {
 		curAction = ApplicationData::Action::Line;
 	}
 	private: System::Void radioButtonMove_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
@@ -258,11 +299,12 @@ namespace OMPSYSTEM {
 				// create Line
 				FigurePtr object;
 
-				object = canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSeconfPointOfLine);
+				// object = canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSeconfPointOfLine);
+				canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSeconfPointOfLine);
 				canvas->UpdateCanvas(MyGraphics);
 
-				canvas->GetObjectPointer(firstPointOfLine)->AddLine(std::static_pointer_cast<Line>(object));
-				canvas->GetObjectPointer(tempSeconfPointOfLine)->AddLine(std::static_pointer_cast<Line>(object));
+				// canvas->GetObjectPointer(firstPointOfLine)->AddLine(std::static_pointer_cast<Line>(object));
+				// canvas->GetObjectPointer(tempSeconfPointOfLine)->AddLine(std::static_pointer_cast<Line>(object));
 
 				countClicksOfLine = 0;
 			}
@@ -310,5 +352,40 @@ namespace OMPSYSTEM {
 	private: System::Void MyForm_MouseUp(System::Object^ sender, System::Windows::Forms::MouseEventArgs^ e) {
 		canMove = false;
 	}
-	};
+
+	private: System::Void button_save_Click(System::Object^ sender, System::EventArgs^ e) {
+		
+		SaveFileDialog^ saveDialog = gcnew SaveFileDialog();
+		
+		saveDialog->ShowDialog();
+
+		System::String^ fileName = saveDialog->FileName;
+
+		msclr::interop::marshal_context context;
+		std::string fileNameStdString = context.marshal_as<std::string>(fileName);
+
+		canvas->SaveDataInFile(fileNameStdString);
+
+	}
+	private: System::Void button_load_Click(System::Object^ sender, System::EventArgs^ e) {
+
+		OpenFileDialog^ loadDialog = gcnew OpenFileDialog();
+
+		loadDialog->ShowDialog();
+
+		System::String^ fileName = loadDialog->FileName;
+
+		msclr::interop::marshal_context context;
+		std::string fileNameStdString = context.marshal_as<std::string>(fileName);
+
+		canvas->LoadDataFromFile(fileNameStdString);
+		canvas->UpdateCanvas(MyGraphics);
+	}
+
+	private: System::Void button_clear_Click(System::Object^ sender, System::EventArgs^ e) {
+		canvas->ClearCanvas();
+		canvas->UpdateCanvas(MyGraphics);
+	}
+
+};
 }

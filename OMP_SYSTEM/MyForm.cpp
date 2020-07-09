@@ -3,6 +3,7 @@
 
 using namespace OMPSYSTEM; // Название проекта
 
+[STAThread]
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);

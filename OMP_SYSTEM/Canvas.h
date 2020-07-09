@@ -22,6 +22,9 @@ public:
 	Point TakeClosestCenter(Point point);
 
 	void SaveDataInFile(std::string _filename);
+	void LoadDataFromFile(std::string _filename);
+
+	void ClearCanvas();
 
 private:
 

@@ -7,6 +7,9 @@
 
 #include "windows.h"
 
+#include <fstream>;
+#include <regex>
+
 Canvas::Canvas()
 {
 }
@@ -66,9 +69,17 @@ FigurePtr Canvas::CreateObject(const Figure::Type type, const Color color, const
 	case Figure::Type::Line:
 
 		lineBase = std::make_shared<Line>(Figure::Type::Line);
+		
+		lineBase->SetPosition(point);
 		lineBase->SetPosition2(point2);
 
 		instance = std::static_pointer_cast<Figure>(lineBase);
+
+		this->AddObject(instance);
+
+		/// cant work without adding object 
+		this->GetObjectPointer(lineBase->GetPosition())->AddLine(lineBase);
+		this->GetObjectPointer(lineBase->GetPosition2())->AddLine(lineBase);
 
 		break;
 
@@ -79,7 +90,8 @@ FigurePtr Canvas::CreateObject(const Figure::Type type, const Color color, const
 	instance->SetPosition(point);
 	instance->SetColor(color);
 
-	this->AddObject(instance);
+	// beacuse line 79 in this code
+	if (type != Figure::Type::Line) this->AddObject(instance);
 	return instance;
 }
 
@@ -164,4 +176,82 @@ void Canvas::SaveDataInFile(std::string _filename)
 		logger.Log(line->GetType(), line->GetPosition(), line->GetPosition2());
 	}
 
+}
+
+void Canvas::LoadDataFromFile(std::string _filename)
+{
+
+	auto ObjectsCopy = _objects;
+
+	try {
+
+
+		// _objects.clear();
+		_objects.clear();
+
+		std::ifstream in(_filename);
+		std::string str_in;
+
+		// Regexp for reading data from file
+		std::cmatch result;
+		std::regex regular("[0-9]+");
+
+		// Read all data from file by line
+		while (std::getline(in, str_in)) {
+
+			std::vector<int> input_data;
+
+			// Search all numbers in line
+			while (regex_search(str_in.c_str(), result, regular)) {
+
+				int intValue = std::stoi(result[0]);
+				input_data.push_back(intValue);
+
+				str_in = result.suffix().str();
+			}
+
+			if (input_data.size() != 3 && input_data.size() != 5) {
+				throw std::runtime_error("Invalid file");
+			}
+
+
+			Point position1;
+			Point position2;
+
+			// Create new objects
+			switch ((Figure::Type)input_data[0])
+			{
+
+			case Figure::Type::Circle:
+			case Figure::Type::Triangle:
+			case Figure::Type::Square:
+
+				position1 = Point(input_data[1], input_data[2]);
+				this->CreateObject((Figure::Type)input_data[0], Color::Black, position1);
+
+				break;
+
+			case Figure::Type::Line:
+
+				position1 = Point(input_data[1], input_data[2]);
+				position2 = Point(input_data[3], input_data[4]);
+				this->CreateObject((Figure::Type)input_data[0], Color::Black, position1, position2);
+
+
+				break;
+			}
+		}
+
+		in.close();
+	}
+	catch (...) {
+
+		/// assert
+		_objects = ObjectsCopy;
+	}
+}
+
+void Canvas::ClearCanvas()
+{
+	_objects.clear();
 }
