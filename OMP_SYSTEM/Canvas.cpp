@@ -145,3 +145,23 @@ Point Canvas::TakeClosestCenter(Point point)
 
 	return point_result;
 }
+
+void Canvas::SaveDataInFile(std::string _filename)
+{
+	Logger logger(_filename);
+
+	for (const auto& object : _objects) {
+
+		if (object->GetType() == Figure::Type::Line) continue;
+		logger.Log(object->GetType(), object->GetPosition());
+	}
+
+	for (const auto& object : _objects) {
+
+		if (object->GetType() != Figure::Type::Line) continue;
+
+		LinePtr line = std::static_pointer_cast<Line>(object);
+		logger.Log(line->GetType(), line->GetPosition(), line->GetPosition2());
+	}
+
+}

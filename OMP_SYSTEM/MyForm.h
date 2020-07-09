@@ -198,6 +198,9 @@ namespace OMPSYSTEM {
 	}
 	private: System::Void radioButtonSquare_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Square;
+
+		/// just for test
+		canvas->SaveDataInFile("kek.txt");
 	}
 	private: System::Void radioButtonLine_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
 		curAction = ApplicationData::Action::Line;

@@ -1,7 +1,9 @@
 #pragma once
 
+#include <string>
 
 #include "Figure.h"
+#include "Logger.h"
 
 class Canvas
 {
@@ -18,6 +20,8 @@ public:
 	std::shared_ptr<Figure> GetObjectPointer(Point point);
 
 	Point TakeClosestCenter(Point point);
+
+	void SaveDataInFile(std::string _filename);
 
 private:
 

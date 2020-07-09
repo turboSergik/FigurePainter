@@ -17,12 +17,12 @@ public:
 	explicit Figure(const Type type);
 	virtual ~Figure();
 
-	void SetPosition(const System::Drawing::Point& position);
+	void SetPosition(const Point& position);
 	void Move(const Point& position);
 
-	const System::Drawing::Point& GetPosition() const { return _position; }
+	const Point& GetPosition() const { return _position; }
 
-	void SetColor(const System::Drawing::Color color);
+	void SetColor(const Color color);
 
 	Type GetType() const { return _type; }
 
