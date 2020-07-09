@@ -228,6 +228,8 @@ namespace OMPSYSTEM {
 		MyGraphics = this->CreateGraphics();
 		this->radioButtonCircle->Select();
 
+		this->DoubleBuffered = true;
+
 		canvas = Canvas::GetInstance();
 	}
 
