@@ -18,10 +18,19 @@ public:
 	void SetPosition2(const Point point);
 	Point GetPosition2() const;
 
+	void SetFigure1(const FigurePtr figure);
+	FigurePtr GetFigure1() const;
+
+	void SetFigure2(const FigurePtr figure);
+	FigurePtr GetFigure2() const;
+
 private:
 
 	Line() = delete;
 
 	Point _position2;
+
+	FigurePtr _figure1;
+	FigurePtr _figure2;
 
 };

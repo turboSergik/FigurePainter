@@ -18,9 +18,10 @@ public:
 	virtual ~Figure();
 
 	void SetPosition(const Point& position);
-	void Move(const Point& position);
+	void Move(const Point position);
 
 	const Point& GetPosition() const { return _position; }
+	const std::vector<std::pair<LinePtr, bool> >& GetVectorOfLines() const { return _vectorOfLines; }
 
 	void SetColor(const Color color);
 

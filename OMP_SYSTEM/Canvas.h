@@ -3,6 +3,12 @@
 #include <string>
 
 #include "Figure.h"
+
+#include "Line.h"
+#include "Circle.h"
+#include "Triangle.h"
+#include "Square.h"
+
 #include "Logger.h"
 
 class Canvas
@@ -27,6 +33,7 @@ public:
 	void LoadDataFromFile(std::string _filename);
 
 	void ClearCanvas();
+	ObjectVector GetCanvasObjects() const;
 
 	bool CanDrawNewFrame = true;
 

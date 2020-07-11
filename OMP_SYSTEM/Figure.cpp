@@ -19,9 +19,10 @@ void Figure::SetPosition(const Point& position)
 	_position = position;
 }
 
-void Figure::Move(const Point& position)
+void Figure::Move(const Point position)
 {
 	Point newPos = position;
+
 	newPos.X += len / 2;
 	newPos.Y += len / 2;
 

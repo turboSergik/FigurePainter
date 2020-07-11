@@ -5,8 +5,8 @@
 
 #include "Canvas.h"
 
-#include "Line.h"
 #include "Figure.h"
+#include "PowerMethodForGraphVisualization.h"
 
 #include <msclr\marshal_cppstd.h>
 
@@ -77,6 +77,7 @@ namespace OMPSYSTEM {
 		   Point tempSecondPointOfLine;
 
 		   bool canMove = false;
+		   bool powerMethod = false;
 
 		   Point pointMove;
 
@@ -86,6 +87,8 @@ namespace OMPSYSTEM {
 	private: System::Windows::Forms::Button^ button_load;
 	private: System::Windows::Forms::Button^ button_save;
 	private: System::Windows::Forms::Button^ button_clear;
+	private: System::Windows::Forms::CheckBox^ PowerMethodCheckBox;
+
 	private: System::Windows::Forms::Timer^ render_timer;
 
 
@@ -109,6 +112,7 @@ namespace OMPSYSTEM {
 			   this->button_save = (gcnew System::Windows::Forms::Button());
 			   this->button_clear = (gcnew System::Windows::Forms::Button());
 			   this->render_timer = (gcnew System::Windows::Forms::Timer(this->components));
+			   this->PowerMethodCheckBox = (gcnew System::Windows::Forms::CheckBox());
 			   this->SuspendLayout();
 			   // 
 			   // radioButtonCircle
@@ -207,6 +211,17 @@ namespace OMPSYSTEM {
 			   this->render_timer->Interval = 1;
 			   this->render_timer->Tick += gcnew System::EventHandler(this, &MyForm::render_timer_Tick);
 			   // 
+			   // PowerMethodCheckBox
+			   // 
+			   this->PowerMethodCheckBox->AutoSize = true;
+			   this->PowerMethodCheckBox->Location = System::Drawing::Point(12, 426);
+			   this->PowerMethodCheckBox->Name = L"PowerMethodCheckBox";
+			   this->PowerMethodCheckBox->Size = System::Drawing::Size(339, 20);
+			   this->PowerMethodCheckBox->TabIndex = 11;
+			   this->PowerMethodCheckBox->Text = L"Enable/Disable Power Method of graph visualisation";
+			   this->PowerMethodCheckBox->UseVisualStyleBackColor = true;
+			   this->PowerMethodCheckBox->CheckedChanged += gcnew System::EventHandler(this, &MyForm::PowerMethod_CheckedChanged);
+			   // 
 			   // MyForm
 			   // 
 			   this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
@@ -214,6 +229,7 @@ namespace OMPSYSTEM {
 			   this->AutoScroll = true;
 			   this->BackColor = System::Drawing::Color::White;
 			   this->ClientSize = System::Drawing::Size(1062, 467);
+			   this->Controls->Add(this->PowerMethodCheckBox);
 			   this->Controls->Add(this->button_clear);
 			   this->Controls->Add(this->button_save);
 			   this->Controls->Add(this->button_load);
@@ -242,8 +258,7 @@ namespace OMPSYSTEM {
 		this->AutoSizeMode = System::Windows::Forms::AutoSizeMode::GrowAndShrink;
 
 		this->radioButtonCircle->Select();
-		this->DoubleBuffered = true;
-
+		this->PowerMethodCheckBox->Checked = true;
 		this->DoubleBuffered = true;
 
 		canvas = Canvas::GetInstance();
@@ -307,6 +322,8 @@ namespace OMPSYSTEM {
 			break;
 
 		case ApplicationData::Action::LineSecondPoint:
+
+			if (firstPointOfLine == tempSecondPointOfLine) return;
 
 			canvas->CreateObject(Figure::Type::Line, Color::Black, firstPointOfLine, tempSecondPointOfLine);
 			curAction = ApplicationData::Action::Line;
@@ -388,7 +405,12 @@ namespace OMPSYSTEM {
 	}
 
 	private: System::Void render_timer_Tick(System::Object^ sender, System::EventArgs^ e) {
+		if (powerMethod == true) PowerMethod::PowerMethodIteration(canvas->GetCanvasObjects());
 		this->Invalidate();
+	}
+
+	private: System::Void PowerMethod_CheckedChanged(System::Object^ sender, System::EventArgs^ e) {
+		powerMethod = this->PowerMethodCheckBox->Checked;
 	}
 };
 }

@@ -30,3 +30,13 @@ Point Line::GetPosition2() const
 {
 	return _position2;
 }
+
+FigurePtr Line::GetFigure1() const { return _figure1; }
+
+void Line::SetFigure1(const FigurePtr figure) { _figure1 = figure; }
+
+
+FigurePtr Line::GetFigure2() const { return _figure2; }
+
+void Line::SetFigure2(const FigurePtr figure) { _figure2 = figure; }
+

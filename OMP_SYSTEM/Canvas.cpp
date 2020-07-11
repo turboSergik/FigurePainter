@@ -42,6 +42,9 @@ FigurePtr Canvas::CreateObject(const Figure::Type type, const Color color, const
 
 	FigurePtr instance;
 
+	// Need for creating Line
+	FigurePtr figure1;
+	FigurePtr figure2;
 
 	switch (type)
 	{
@@ -73,13 +76,19 @@ FigurePtr Canvas::CreateObject(const Figure::Type type, const Color color, const
 		lineBase->SetPosition(point);
 		lineBase->SetPosition2(point2);
 
+		figure1 = this->GetObjectPointer(point);
+		figure2 = this->GetObjectPointer(point2);
+
+		lineBase->SetFigure1(figure1);
+		lineBase->SetFigure2(figure2);
+
 		instance = std::static_pointer_cast<Figure>(lineBase);
 
 		this->AddObject(instance);
 
 		/// cant work without adding object 
-		this->GetObjectPointer(lineBase->GetPosition())->AddLine(lineBase);
-		this->GetObjectPointer(lineBase->GetPosition2())->AddLine(lineBase);
+		figure1->AddLine(lineBase);
+		figure2->AddLine(lineBase);
 
 		break;
 
@@ -262,3 +271,6 @@ void Canvas::ClearCanvas()
 {
 	_objects.clear();
 }
+
+ObjectVector Canvas::GetCanvasObjects() const { return _objects; }
+
