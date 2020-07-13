@@ -7,6 +7,7 @@ class PowerMethod {
 public:
 	
 	static void PowerMethodIteration(ObjectVector& objects);
+	static void SetFixedFigure(FigurePtr fixedFigure);
 
 private:
 
@@ -17,6 +18,7 @@ private:
 	static void MovePoints(ObjectVector& objects);
 
 	static const int constFigureMass;
+	static FigurePtr _fixedFigure;
 	static std::vector<std::pair<double, double> > pointsOffset;
 
 };

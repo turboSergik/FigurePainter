@@ -118,7 +118,7 @@ namespace OMPSYSTEM {
 			   // radioButtonCircle
 			   // 
 			   this->radioButtonCircle->AutoSize = true;
-			   this->radioButtonCircle->Location = System::Drawing::Point(27, 27);
+			   this->radioButtonCircle->Location = System::Drawing::Point(22, 22);
 			   this->radioButtonCircle->Name = L"radioButtonCircle";
 			   this->radioButtonCircle->Size = System::Drawing::Size(60, 20);
 			   this->radioButtonCircle->TabIndex = 3;
@@ -130,7 +130,7 @@ namespace OMPSYSTEM {
 			   // radioButtonSquare
 			   // 
 			   this->radioButtonSquare->AutoSize = true;
-			   this->radioButtonSquare->Location = System::Drawing::Point(27, 54);
+			   this->radioButtonSquare->Location = System::Drawing::Point(22, 42);
 			   this->radioButtonSquare->Name = L"radioButtonSquare";
 			   this->radioButtonSquare->Size = System::Drawing::Size(70, 20);
 			   this->radioButtonSquare->TabIndex = 4;
@@ -142,7 +142,7 @@ namespace OMPSYSTEM {
 			   // radioButtonTriangle
 			   // 
 			   this->radioButtonTriangle->AutoSize = true;
-			   this->radioButtonTriangle->Location = System::Drawing::Point(27, 81);
+			   this->radioButtonTriangle->Location = System::Drawing::Point(22, 65);
 			   this->radioButtonTriangle->Name = L"radioButtonTriangle";
 			   this->radioButtonTriangle->Size = System::Drawing::Size(76, 20);
 			   this->radioButtonTriangle->TabIndex = 5;
@@ -154,7 +154,7 @@ namespace OMPSYSTEM {
 			   // radioButtonLine
 			   // 
 			   this->radioButtonLine->AutoSize = true;
-			   this->radioButtonLine->Location = System::Drawing::Point(27, 121);
+			   this->radioButtonLine->Location = System::Drawing::Point(22, 97);
 			   this->radioButtonLine->Name = L"radioButtonLine";
 			   this->radioButtonLine->Size = System::Drawing::Size(51, 20);
 			   this->radioButtonLine->TabIndex = 6;
@@ -166,7 +166,7 @@ namespace OMPSYSTEM {
 			   // radioButtonMove
 			   // 
 			   this->radioButtonMove->AutoSize = true;
-			   this->radioButtonMove->Location = System::Drawing::Point(27, 159);
+			   this->radioButtonMove->Location = System::Drawing::Point(22, 126);
 			   this->radioButtonMove->Name = L"radioButtonMove";
 			   this->radioButtonMove->Size = System::Drawing::Size(60, 20);
 			   this->radioButtonMove->TabIndex = 7;
@@ -177,9 +177,10 @@ namespace OMPSYSTEM {
 			   // 
 			   // button_load
 			   // 
-			   this->button_load->Location = System::Drawing::Point(964, 27);
+			   this->button_load->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right));
+			   this->button_load->Location = System::Drawing::Point(933, 22);
 			   this->button_load->Name = L"button_load";
-			   this->button_load->Size = System::Drawing::Size(54, 26);
+			   this->button_load->Size = System::Drawing::Size(67, 27);
 			   this->button_load->TabIndex = 8;
 			   this->button_load->Text = L"Load";
 			   this->button_load->UseVisualStyleBackColor = true;
@@ -187,9 +188,10 @@ namespace OMPSYSTEM {
 			   // 
 			   // button_save
 			   // 
-			   this->button_save->Location = System::Drawing::Point(904, 27);
+			   this->button_save->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right));
+			   this->button_save->Location = System::Drawing::Point(850, 22);
 			   this->button_save->Name = L"button_save";
-			   this->button_save->Size = System::Drawing::Size(54, 26);
+			   this->button_save->Size = System::Drawing::Size(67, 27);
 			   this->button_save->TabIndex = 9;
 			   this->button_save->Text = L"Save";
 			   this->button_save->UseVisualStyleBackColor = true;
@@ -197,9 +199,10 @@ namespace OMPSYSTEM {
 			   // 
 			   // button_clear
 			   // 
-			   this->button_clear->Location = System::Drawing::Point(964, 59);
+			   this->button_clear->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right));
+			   this->button_clear->Location = System::Drawing::Point(933, 65);
 			   this->button_clear->Name = L"button_clear";
-			   this->button_clear->Size = System::Drawing::Size(54, 26);
+			   this->button_clear->Size = System::Drawing::Size(67, 27);
 			   this->button_clear->TabIndex = 10;
 			   this->button_clear->Text = L"Clear";
 			   this->button_clear->UseVisualStyleBackColor = true;
@@ -213,10 +216,13 @@ namespace OMPSYSTEM {
 			   // 
 			   // PowerMethodCheckBox
 			   // 
+			   this->PowerMethodCheckBox->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Bottom | System::Windows::Forms::AnchorStyles::Left));
 			   this->PowerMethodCheckBox->AutoSize = true;
-			   this->PowerMethodCheckBox->Location = System::Drawing::Point(12, 426);
+			   this->PowerMethodCheckBox->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 11.75F, System::Drawing::FontStyle::Regular,
+				   System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			   this->PowerMethodCheckBox->Location = System::Drawing::Point(22, 417);
 			   this->PowerMethodCheckBox->Name = L"PowerMethodCheckBox";
-			   this->PowerMethodCheckBox->Size = System::Drawing::Size(339, 20);
+			   this->PowerMethodCheckBox->Size = System::Drawing::Size(393, 24);
 			   this->PowerMethodCheckBox->TabIndex = 11;
 			   this->PowerMethodCheckBox->Text = L"Enable/Disable Power Method of graph visualisation";
 			   this->PowerMethodCheckBox->UseVisualStyleBackColor = true;
@@ -228,7 +234,7 @@ namespace OMPSYSTEM {
 			   this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			   this->AutoScroll = true;
 			   this->BackColor = System::Drawing::Color::White;
-			   this->ClientSize = System::Drawing::Size(1062, 467);
+			   this->ClientSize = System::Drawing::Size(1030, 467);
 			   this->Controls->Add(this->PowerMethodCheckBox);
 			   this->Controls->Add(this->button_clear);
 			   this->Controls->Add(this->button_save);
@@ -241,7 +247,7 @@ namespace OMPSYSTEM {
 			   this->ForeColor = System::Drawing::SystemColors::ControlText;
 			   this->Name = L"MyForm";
 			   this->RightToLeft = System::Windows::Forms::RightToLeft::Yes;
-			   this->Text = L"MyForm";
+			   this->Text = L"Figure Painter for omp-system";
 			   this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			   this->Paint += gcnew System::Windows::Forms::PaintEventHandler(this, &MyForm::MyForm_Paint);
 			   this->MouseDown += gcnew System::Windows::Forms::MouseEventHandler(this, &MyForm::MyForm_MouseDown);
@@ -255,7 +261,7 @@ namespace OMPSYSTEM {
 
 	private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
 
-		this->AutoSizeMode = System::Windows::Forms::AutoSizeMode::GrowAndShrink;
+		// this->AutoSizeMode = System::Windows::Forms::AutoSizeMode::GrowAndShrink;
 
 		this->radioButtonCircle->Select();
 		this->PowerMethodCheckBox->Checked = true;
@@ -344,6 +350,7 @@ namespace OMPSYSTEM {
 
 	private: System::Void MyForm_MouseMove(System::Object^ sender, System::Windows::Forms::MouseEventArgs^ e) {
 
+		PowerMethod::SetFixedFigure(nullptr);
 		if (curAction == ApplicationData::Action::Move && canMove == true) {
 			Point pos = e->Location;
 
@@ -351,6 +358,7 @@ namespace OMPSYSTEM {
 			pos.Y -= len / 2;
 
 			objectToMove->SetPosition(pos);
+			PowerMethod::SetFixedFigure(objectToMove);
 		}
 
 		if (curAction == ApplicationData::Action::LineSecondPoint) {

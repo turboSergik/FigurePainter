@@ -2,6 +2,8 @@
 
 
 const int PowerMethod::constFigureMass = 75000;
+FigurePtr PowerMethod::_fixedFigure = nullptr;
+
 std::vector<std::pair<double, double> > PowerMethod::pointsOffset;
 
 double Distantion (Point& a, Point& b) {
@@ -24,9 +26,11 @@ void PowerMethod::PowerMethodIteration(ObjectVector& objects)
 	MovePoints(objects);
 }
 
+void PowerMethod::SetFixedFigure(FigurePtr fixedFigure) { _fixedFigure = fixedFigure; }
+
 void PowerMethod::PushingAwayPoints(ObjectVector& objects)
 {
-	for (size_t i = 0; i < objects.size(); i++) if (objects[i]->GetType() != Figure::Type::Line) {
+	for (size_t i = 0; i < objects.size(); i++) if (objects[i]->GetType() != Figure::Type::Line && _fixedFigure != objects[i]) {
 		for (size_t j = 0; j < objects.size(); j++) if (objects[j]->GetType() != Figure::Type::Line && i != j) {
 
 			FigurePtr figure1 = objects[i];
@@ -48,7 +52,7 @@ void PowerMethod::PushingAwayPoints(ObjectVector& objects)
 void PowerMethod::GravityPoints(ObjectVector& objects)
 {
 	
-	for (size_t i = 0; i < objects.size(); i++)  if (objects[i]->GetType() != Figure::Type::Line) {
+	for (size_t i = 0; i < objects.size(); i++)  if (objects[i]->GetType() != Figure::Type::Line && _fixedFigure != objects[i]) {
 
 		auto vectorOfLines = objects[i]->GetVectorOfLines();
 
